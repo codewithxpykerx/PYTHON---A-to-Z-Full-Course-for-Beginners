@@ -1,0 +1,32 @@
+1
+00:00:02,040 --> 00:00:08,630
+The next to my third is it was my third but it was my third simply reverse the item from the list.
+
+2
+00:00:08,680 --> 00:00:18,690
+So now I'm going to get a list for now I'm going to simply reverse the I don't even reverse now I'm
+
+3
+00:00:18,690 --> 00:00:25,050
+going to simply print the updated will which is the reverse items.
+
+4
+00:00:25,150 --> 00:00:25,850
+So how do we get.
+
+5
+00:00:25,850 --> 00:00:27,880
+That is Evelyn.
+
+6
+00:00:28,080 --> 00:00:34,080
+As you can see the first inexpertly which is zero is started from 34.
+
+7
+00:00:34,530 --> 00:00:43,050
+And this initial We knew the first index we knew is a 167 which means that the items are reversed.
+
+8
+00:00:43,120 --> 00:00:45,030
+So this is all about the what's the matter.
+

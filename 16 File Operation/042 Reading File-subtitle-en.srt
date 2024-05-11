@@ -1,0 +1,220 @@
+1
+00:00:01,080 --> 00:00:02,040
+Hi everyone.
+
+2
+00:00:02,070 --> 00:00:06,500
+Now let's have a look good reading from a flat to read the content of a file.
+
+3
+00:00:06,540 --> 00:00:12,270
+We must open the file and read more that our readers murders are available for this book was we can
+
+4
+00:00:12,270 --> 00:00:16,700
+use the read would side another or just read mother or any other mothers.
+
+5
+00:00:16,770 --> 00:00:21,450
+We will be discussing in this session later to do this.
+
+6
+00:00:21,670 --> 00:00:25,750
+So in the first case the read with Cyzon either.
+
+7
+00:00:26,370 --> 00:00:37,830
+We are reading up to the size of the sites but Amida mentioned and it will return after that size of
+
+8
+00:00:38,050 --> 00:00:39,760
+data to us.
+
+9
+00:00:39,960 --> 00:00:49,290
+And if the size barometer is not specified it reads and returns up to the end of the line.
+
+10
+00:00:49,380 --> 00:00:52,100
+So let's go to the terminal.
+
+11
+00:00:52,940 --> 00:01:02,600
+And since I have or some of the lines in my desk be XTi which we saved previously.
+
+12
+00:01:02,730 --> 00:01:07,580
+I just want to get through that get be.
+
+13
+00:01:07,860 --> 00:01:15,390
+I just think the second line to second line and third line de-code line and remove the Portlock in order
+
+14
+00:01:15,390 --> 00:01:21,320
+to do something with the read operations with the files.
+
+15
+00:01:21,330 --> 00:01:24,690
+We just want to go to the White then on
+
+16
+00:01:29,520 --> 00:01:41,090
+and now just open the file in read mode for that f equal to open with in court.
+
+17
+00:01:41,270 --> 00:01:42,240
+Best to be XTi
+
+18
+00:01:47,450 --> 00:01:49,100
+forma.
+
+19
+00:01:49,660 --> 00:01:52,630
+The mother read.
+
+20
+00:01:54,720 --> 00:02:04,820
+Now I just want to pass the syce that I need to read read plie first.
+
+21
+00:02:05,530 --> 00:02:08,080
+And this filter don't up to the character.
+
+22
+00:02:08,500 --> 00:02:10,740
+1 2 3 4 5.
+
+23
+00:02:10,840 --> 00:02:12,210
+Get it all up.
+
+24
+00:02:12,760 --> 00:02:22,040
+And if I did it again then it will return from the blank line and one two three four.
+
+25
+00:02:22,780 --> 00:02:31,030
+And now I just want to get rid of this size character size but I only disagree then it will turn up
+
+26
+00:02:31,060 --> 00:02:34,360
+to the end of the fight.
+
+27
+00:02:34,730 --> 00:02:35,190
+So
+
+28
+00:02:38,870 --> 00:02:46,200
+now I just want to know the file position for that.
+
+29
+00:02:46,280 --> 00:02:49,100
+I just want to write.
+
+30
+00:02:49,130 --> 00:02:54,580
+If not then this will return the current file.
+
+31
+00:02:54,980 --> 00:02:59,380
+Now if these at the end of the file would you still eat.
+
+32
+00:02:59,410 --> 00:03:09,170
+If I just want to bring the file closer to the initial position I can do anything door seek and it said
+
+33
+00:03:09,170 --> 00:03:14,090
+that Sudol And ief.
+
+34
+00:03:14,240 --> 00:03:19,180
+I will ask to bell the current file position.
+
+35
+00:03:19,190 --> 00:03:25,540
+This will return to and read the end file.
+
+36
+00:03:26,210 --> 00:03:38,160
+Once we move on to plain f nobody and this will read the in depth like
+
+37
+00:03:41,180 --> 00:03:45,580
+we can read a file line by line using a for.
+
+38
+00:03:46,190 --> 00:03:49,570
+This is both efficient and fast.
+
+39
+00:03:49,700 --> 00:04:04,470
+So in order to do that we just go to the initial position and we are looping it for line in F stacks
+
+40
+00:04:04,630 --> 00:04:06,140
+indentation here.
+
+41
+00:04:08,260 --> 00:04:13,690
+This day it's been like
+
+42
+00:04:16,700 --> 00:04:18,450
+this again this winter.
+
+43
+00:04:18,700 --> 00:04:31,720
+Line by line up to the end of the five then we can use a read line the other murdered to read individual
+
+44
+00:04:31,780 --> 00:04:33,720
+lines of a file.
+
+45
+00:04:33,800 --> 00:04:40,010
+This would be a fire till the new newly in building the newline character.
+
+46
+00:04:40,450 --> 00:04:49,370
+So in order to do that let's go to the bishop's position again and estilo threadlet
+
+47
+00:04:52,240 --> 00:05:00,860
+and this is done the first line if we take the second line again the third.
+
+48
+00:05:01,450 --> 00:05:14,710
+And if you want to get all of a sudden then we can do f don't read lines instead of after like.
+
+49
+00:05:15,450 --> 00:05:25,720
+Now where we are at the end of the file so that if you list and in order to see what happens see to
+
+50
+00:05:25,850 --> 00:05:26,740
+see it all.
+
+51
+00:05:27,070 --> 00:05:34,360
+And now just do it again and this will return a list with all the lines.
+
+52
+00:05:34,540 --> 00:05:43,180
+So that's all about Reeg murdered in by then.
+
+53
+00:05:43,180 --> 00:05:48,840
+So the other mothers will be discussed in the other way to use.
+
+54
+00:05:48,880 --> 00:05:50,110
+So keep watching.
+
+55
+00:05:50,380 --> 00:05:50,780
+Thank you.
+

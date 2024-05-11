@@ -1,0 +1,204 @@
+1
+00:00:00,710 --> 00:00:09,700
+In this field you are going to talk about how to access how to update and how to deal the dictionary
+
+2
+00:00:10,490 --> 00:00:17,960
+now first how to access the venue in a dictionary.
+
+3
+00:00:18,510 --> 00:00:21,760
+For that you have to create our dictionary.
+
+4
+00:00:22,020 --> 00:00:29,700
+So I needed a dictionary and a signing for a new career in the dictionary.
+
+5
+00:00:30,050 --> 00:00:41,610
+So now I'm going to print the news using all this credit but I get into this crap and I get in 2007.
+
+6
+00:00:41,750 --> 00:00:43,700
+This is this.
+
+7
+00:00:43,710 --> 00:00:47,050
+So here I am on this model.
+
+8
+00:00:47,640 --> 00:00:58,400
+The good old iPhone which is searching the new iPhone is associated with this key and this is after
+
+9
+00:00:58,410 --> 00:00:59,920
+that grade.
+
+10
+00:01:00,090 --> 00:01:01,380
+This is Jim.
+
+11
+00:01:01,490 --> 00:01:13,380
+And now I'm going to turn the key 2000 mine which is these going on this month do we get the old iPhone
+
+12
+00:01:13,470 --> 00:01:26,950
+3G S which is just similar to this I'm not going to the key which is just an iPhone 4 which is just
+
+13
+00:01:27,060 --> 00:01:28,010
+similar to this.
+
+14
+00:01:28,150 --> 00:01:38,340
+The searching I from cool and has more to do with are just to dump them down because they didn't do
+
+15
+00:01:38,410 --> 00:01:44,060
+that do 2000 then associated with this is jinglin.
+
+16
+00:01:44,430 --> 00:01:49,910
+So you can use anything to add to the item from dictionary.
+
+17
+00:01:49,920 --> 00:01:56,360
+Now let's move to the next topic how to update the dictionary.
+
+18
+00:01:57,090 --> 00:01:59,500
+For that we have to get our dictionary.
+
+19
+00:01:59,790 --> 00:02:02,080
+So here I get a dictionary.
+
+20
+00:02:02,310 --> 00:02:06,890
+Signing for beer instead of the color is.
+
+21
+00:02:06,980 --> 00:02:16,780
+And now I'm going to update the game beer which is already exist in this dictionary.
+
+22
+00:02:17,130 --> 00:02:19,510
+So here I put it.
+
+23
+00:02:19,960 --> 00:02:29,590
+And I signed up 2007 and now I'm going to give different this to me just by time.
+
+24
+00:02:29,790 --> 00:02:40,500
+And after that it seemed to bring them up to the dictionary and there's more do we get the result as
+
+25
+00:02:40,530 --> 00:02:47,880
+we see the big havinga the new iPhone 3G which is similar to this.
+
+26
+00:02:47,900 --> 00:02:49,050
+Loving it.
+
+27
+00:02:49,470 --> 00:02:55,990
+And the next day we have to do as I can fool and lost.
+
+28
+00:02:56,400 --> 00:03:06,280
+You can see the 2007 heading for new which is a distinct item which means that the key to those timing
+
+29
+00:03:06,450 --> 00:03:10,160
+is did they put up another string.
+
+30
+00:03:10,230 --> 00:03:18,330
+So there is a way to update the game in the beer which is already exist in the dictionary.
+
+31
+00:03:19,000 --> 00:03:26,210
+So now I'm going to add a new beer in the dictionary.
+
+32
+00:03:26,580 --> 00:03:34,960
+Next I'm going to update the halting action which means that I'm going to add some beer and sceptered
+
+33
+00:03:35,020 --> 00:03:36,360
+dictionary.
+
+34
+00:03:36,990 --> 00:03:41,160
+So Third you have to assign a new key here.
+
+35
+00:03:41,260 --> 00:03:48,060
+I put 2000 11 which is a new key in this dictionary.
+
+36
+00:03:48,270 --> 00:03:55,130
+And I move to a different level word.
+
+37
+00:03:55,670 --> 00:03:58,920
+Now I'm going to do this more do.
+
+38
+00:03:59,220 --> 00:04:06,050
+Perhaps you can see those 11 is added in the dictionary.
+
+39
+00:04:06,350 --> 00:04:09,770
+So these are the two of the.
+
+40
+00:04:10,410 --> 00:04:13,960
+These are all about or updating the dictionary.
+
+41
+00:04:14,700 --> 00:04:22,720
+Let's move to the topic how to do the game from the dictionary.
+
+42
+00:04:22,950 --> 00:04:26,590
+For that to create a dictionary.
+
+43
+00:04:26,640 --> 00:04:34,340
+So here I created a dictionary and signing for give it to you and the dictionary.
+
+44
+00:04:34,720 --> 00:04:47,340
+And no I don't believe the e-mail we're using came in so that you beat me and my third and here the
+
+45
+00:04:47,460 --> 00:04:48,810
+name of the dictionary.
+
+46
+00:04:49,190 --> 00:04:50,780
+And that's quite a record.
+
+47
+00:04:51,120 --> 00:05:01,530
+I'm going to give the name of the game which is put on the seven and after that was simply the updated
+
+48
+00:05:01,760 --> 00:05:06,940
+diction and so here we get that is all.
+
+49
+00:05:07,050 --> 00:05:16,680
+So that being said the only basis on the team given new year with me is that the game of problem solving
+
+50
+00:05:17,070 --> 00:05:18,540
+is delayed.
+
+51
+00:05:18,640 --> 00:05:28,020
+There's a part of the game going to be using the game that is all about deleting the item from dictionary.
+

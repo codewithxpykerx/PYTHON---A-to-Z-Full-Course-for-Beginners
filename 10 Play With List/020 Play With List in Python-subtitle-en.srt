@@ -1,0 +1,84 @@
+1
+00:00:00,540 --> 00:00:09,550
+Welcome to the white and do even today we're going to talk about live in by then the list is in which
+
+2
+00:00:09,630 --> 00:00:18,530
+you do that I mean by time which I used to store our list of item list is created using a square to
+
+3
+00:00:18,520 --> 00:00:25,070
+record and each item placed inside the list with separate coalmines.
+
+4
+00:00:25,180 --> 00:00:29,370
+I don't insert the list have their own index relative.
+
+5
+00:00:29,550 --> 00:00:35,700
+That means that each item in the list had their own position which is denoted by.
+
+6
+00:00:35,790 --> 00:00:37,580
+So these are new.
+
+7
+00:00:37,590 --> 00:00:41,920
+Now let us understand to a simple example of list.
+
+8
+00:00:41,970 --> 00:00:48,320
+I open up my pencil and now I'm going to with some simple example of Mr..
+
+9
+00:00:48,420 --> 00:00:52,100
+So initially I created it very well.
+
+10
+00:00:52,500 --> 00:00:59,430
+And that's I think the list I see that list is created using is quite a bit good.
+
+11
+00:00:59,610 --> 00:01:04,520
+So the emptiness because we don't have any item inside this list.
+
+12
+00:01:04,770 --> 00:01:11,730
+So now I'm going to assign some item in this list to the first I don't use a string.
+
+13
+00:01:11,870 --> 00:01:14,640
+The second I don't use a can do that right.
+
+14
+00:01:14,700 --> 00:01:19,920
+You thought I don't know it's true but something does have a new.
+
+15
+00:01:19,990 --> 00:01:23,000
+Which is the alphanumeric menu.
+
+16
+00:01:23,000 --> 00:01:29,430
+So I'm going to print this list to.
+
+17
+00:01:29,440 --> 00:01:35,230
+So here we get the result of this list which isn't good.
+
+18
+00:01:35,320 --> 00:01:39,320
+It's you can do that there the many Benue.
+
+19
+00:01:39,550 --> 00:01:44,370
+But this is all about this in my turn.
+
+20
+00:01:44,470 --> 00:01:52,720
+Next I'm going to explain to you how to access the menu then send the list how to observe the list and
+
+21
+00:01:52,720 --> 00:01:54,480
+how to delete the list.
+

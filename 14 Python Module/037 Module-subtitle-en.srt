@@ -1,0 +1,244 @@
+1
+00:00:00,570 --> 00:00:08,550
+Welcome to the Python tutorial today we are going to talk about more youth in python modules in Python
+
+2
+00:00:09,240 --> 00:00:18,270
+simply python files with extension which contains sort of function which means that your model file
+
+3
+00:00:18,630 --> 00:00:25,220
+will always contain different function and these functions are used in another file.
+
+4
+00:00:25,320 --> 00:00:26,140
+We use them more.
+
+5
+00:00:26,180 --> 00:00:33,930
+You could break down large put them into small manageable files so if we define our most use function
+
+6
+00:00:34,350 --> 00:00:39,640
+in a module and we import it by using import keyword.
+
+7
+00:00:39,870 --> 00:00:46,110
+So now let's move to the examples of models here.
+
+8
+00:00:46,210 --> 00:00:55,360
+I just opened a folder with the empty folder and now I'm going to get a module file in this folder for
+
+9
+00:00:55,360 --> 00:00:55,660
+that
+
+10
+00:01:04,460 --> 00:01:08,790
+engaged module file which is another way.
+
+11
+00:01:09,140 --> 00:01:14,450
+And now I'm going to create a function that is more dual.
+
+12
+00:01:14,710 --> 00:01:23,480
+So for that we have to use the Internet and give the name of the function we just press and insert the
+
+13
+00:01:24,080 --> 00:01:28,850
+function as simply pre-testing we do.
+
+14
+00:01:29,320 --> 00:01:32,450
+I from what do
+
+15
+00:01:36,380 --> 00:01:38,270
+they serve this function.
+
+16
+00:01:38,420 --> 00:01:42,970
+And now I'm going to create another file which is or is not a file.
+
+17
+00:01:49,160 --> 00:01:55,230
+You can give any name to this but it is a file here.
+
+18
+00:01:55,400 --> 00:01:58,920
+I just get rid of modify and or interface.
+
+19
+00:01:59,120 --> 00:02:01,720
+Or is what I used to do.
+
+20
+00:02:01,730 --> 00:02:09,000
+Or you can say that all the function from this one do we just do another beba.
+
+21
+00:02:09,150 --> 00:02:18,150
+And now I'm going to use import keyword to import the function from this more do so simply import the
+
+22
+00:02:18,270 --> 00:02:19,120
+module first.
+
+23
+00:02:19,130 --> 00:02:23,100
+We just do not and this is our name of the model.
+
+24
+00:02:23,250 --> 00:02:30,480
+And after that I will simply call the function by using the name of the model which is doing not are
+
+25
+00:02:30,970 --> 00:02:35,950
+first we simply run this model.
+
+26
+00:02:36,560 --> 00:02:39,640
+We get the result I am from want do.
+
+27
+00:02:39,960 --> 00:02:45,080
+So this is a method when we call the models in sympathetically.
+
+28
+00:02:45,330 --> 00:02:50,220
+So we have another method to import Ahmadu in different directory.
+
+29
+00:02:50,340 --> 00:02:57,750
+So if you want to access the module file in any degrees or defended agree then we have to create the
+
+30
+00:02:57,810 --> 00:03:04,780
+model in the site because this site is located in our Python installed dedicatory.
+
+31
+00:03:05,040 --> 00:03:15,490
+I'm going to open up by Tanstaafl that actually here in local type See your local FC user name of the
+
+32
+00:03:15,490 --> 00:03:24,180
+user in standard Aberdare dong loken for that program.
+
+33
+00:03:24,410 --> 00:03:27,950
+Then by then are defined to do here.
+
+34
+00:03:28,170 --> 00:03:35,330
+We just open up by to install dedicatory and insert that we have a folder called Live and inside the
+
+35
+00:03:35,440 --> 00:03:39,630
+lib rehabber site packages folder.
+
+36
+00:03:39,680 --> 00:03:45,730
+So here I just will Burnetts I begged this folder and instead I'm going to create a module file.
+
+37
+00:03:46,090 --> 00:03:51,500
+So here and what I viewed or more do I mean
+
+38
+00:03:54,190 --> 00:03:58,040
+more to do first don't be very
+
+39
+00:04:04,380 --> 00:04:09,090
+Instead this modified and when to be a simple function which you done.
+
+40
+00:04:09,160 --> 00:04:09,620
+Mr.
+
+41
+00:04:21,390 --> 00:04:21,800
+side
+
+42
+00:04:30,810 --> 00:04:32,320
+is this function.
+
+43
+00:04:32,360 --> 00:04:33,740
+Instead it's more do.
+
+44
+00:04:34,160 --> 00:04:37,320
+So are we ever more do you more do it faster.
+
+45
+00:04:37,350 --> 00:04:40,080
+And instead the more do we have a function name.
+
+46
+00:04:40,140 --> 00:04:45,280
+Hello and now I'm going to call this more to do from another that.
+
+47
+00:04:45,300 --> 00:04:47,400
+So here we go.
+
+48
+00:04:47,400 --> 00:04:51,420
+The dog went for dinner and now I want to.
+
+49
+00:04:51,920 --> 00:04:55,820
+What he's in five which is right.
+
+50
+00:04:56,990 --> 00:04:57,520
+More Dieu.
+
+51
+00:04:57,550 --> 00:05:00,500
+Don't you worry.
+
+52
+00:05:04,030 --> 00:05:07,130
+And incentives what is.
+
+53
+00:05:07,540 --> 00:05:10,470
+I'm going to call them what do you want.
+
+54
+00:05:10,610 --> 00:05:13,610
+You will import more and do
+
+55
+00:05:17,040 --> 00:05:19,610
+what you want doing first.
+
+56
+00:05:20,480 --> 00:05:28,780
+And now I'm going to call a function which we have created in them what do you
+
+57
+00:05:35,260 --> 00:05:36,370
+have in this.
+
+58
+00:05:36,450 --> 00:05:41,590
+What do they get that isn't it just from sight bankers.
+
+59
+00:05:41,750 --> 00:05:47,900
+So this hour another method when you call them or do something and then that is the one more thing.
+
+60
+00:05:48,190 --> 00:05:56,300
+When you create a model in our site packages then you can call them model in any day in your computer.
+
+61
+00:05:56,620 --> 00:05:59,770
+So this is all about more do in by Python.
+

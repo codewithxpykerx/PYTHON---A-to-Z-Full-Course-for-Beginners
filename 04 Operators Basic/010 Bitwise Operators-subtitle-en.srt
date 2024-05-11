@@ -1,0 +1,548 @@
+1
+00:00:01,450 --> 00:00:07,440
+So what a big place oblateness big boys operate as compass values in binary formats.
+
+2
+00:00:07,670 --> 00:00:13,610
+These operators walk on in distance when performing big boys are and in DS as initially these Indians
+
+3
+00:00:13,820 --> 00:00:21,050
+and ready to buy in any form and then some of them Batjer.
+
+4
+00:00:21,110 --> 00:00:21,740
+All right.
+
+5
+00:00:21,830 --> 00:00:24,610
+So let's begin to pick some examples.
+
+6
+00:00:28,390 --> 00:00:30,600
+And the big leagues operators are.
+
+7
+00:00:31,330 --> 00:00:40,740
+And this Simmo was all as binary and binary art and binary Zot X or binary compliment.
+
+8
+00:00:40,760 --> 00:00:46,220
+This is nothing but the negation and binary shift and binary shift
+
+9
+00:00:49,460 --> 00:00:50,720
+lips.
+
+10
+00:00:50,870 --> 00:00:53,200
+Let's get to know first about this binary and
+
+11
+00:00:57,120 --> 00:01:01,730
+let's try to create two variables over here is it.
+
+12
+00:01:02,890 --> 00:01:12,070
+90 is equal to 18 so be initialized and we created two variables with values 19 and 18.
+
+13
+00:01:12,090 --> 00:01:16,500
+Let's call for advice and operators on these two variables.
+
+14
+00:01:18,030 --> 00:01:19,570
+And B.
+
+15
+00:01:19,750 --> 00:01:21,780
+So the output was 80.
+
+16
+00:01:21,850 --> 00:01:22,530
+How.
+
+17
+00:01:23,080 --> 00:01:29,310
+So in the bag on BIDEN First can we do this 19 engaging Dubai in any form.
+
+18
+00:01:29,370 --> 00:01:31,950
+And then performs and operation.
+
+19
+00:01:32,080 --> 00:01:36,320
+Let's check what is a binary format of 19.
+
+20
+00:01:36,730 --> 00:01:39,220
+How is been able to take that in byte and simple.
+
+21
+00:01:39,220 --> 00:01:40,720
+We have some function.
+
+22
+00:01:40,930 --> 00:01:48,550
+So the binary format of YIG which isn't which is nothing but 19 is 1 0 1 1.
+
+23
+00:01:48,550 --> 00:01:50,140
+Let's also know the binary format of
+
+24
+00:01:53,380 --> 00:01:55,590
+the binary form of B.
+
+25
+00:01:55,780 --> 00:01:56,770
+OK.
+
+26
+00:01:57,420 --> 00:02:03,760
+Biden compares these to binary formats over here and finds the result in binary divorcement and then
+
+27
+00:02:03,760 --> 00:02:07,590
+it can What's that binary format into India.
+
+28
+00:02:07,990 --> 00:02:14,820
+OK so how we can be is actually how we both homes and Operation Biddy's binary format.
+
+29
+00:02:14,940 --> 00:02:15,460
+OK.
+
+30
+00:02:15,490 --> 00:02:21,930
+In case of an resultant value will be 1 if bought 0 values or 1.
+
+31
+00:02:22,000 --> 00:02:26,120
+Ok let's try to understand understand this with an example.
+
+32
+00:02:26,500 --> 00:02:32,640
+Let's copy this.
+
+33
+00:02:36,550 --> 00:02:44,500
+So of byte on both forms the and Operation result in value of 1 and 0.
+
+34
+00:02:44,510 --> 00:02:55,660
+I mean the result in comparison of two digits will be 1 if bought our visits are 1 in guess of an operation.
+
+35
+00:02:55,660 --> 00:03:01,820
+For example here 1 and 0 1 and 0 should be 0.
+
+36
+00:03:03,400 --> 00:03:13,450
+We've gone from start 1 and 1 is 1 and 0 0 0 0 1 and 0.
+
+37
+00:03:14,680 --> 00:03:16,370
+So I think it was one action.
+
+38
+00:03:16,750 --> 00:03:26,290
+So the resultant value should be one only if bought combatted in values are what otherwise the value
+
+39
+00:03:26,290 --> 00:03:26,920
+should be zero.
+
+40
+00:03:26,920 --> 00:03:32,260
+For example the board values are what he had the book conversion values he had that one and hence the
+
+41
+00:03:32,260 --> 00:03:34,290
+resulting value was 1 in guess of.
+
+42
+00:03:34,390 --> 00:03:39,280
+And similarly with 1 and 1 is 1 and 1 and 0 since.
+
+43
+00:03:39,340 --> 00:03:45,830
+Would that not once and one is one value 1 and 1 is that is all the result in that it should be zero.
+
+44
+00:03:45,970 --> 00:03:53,620
+So and So initially pikemen got the result by comparing two binary formants of two in these as as this
+
+45
+00:03:53,620 --> 00:03:53,800
+one.
+
+46
+00:03:53,800 --> 00:04:01,140
+So let's try to find out what was indeed notation of these binary form it's all you can able to find
+
+47
+00:04:01,180 --> 00:04:07,560
+in the format of a binary does it's by using a function called in Python.
+
+48
+00:04:10,920 --> 00:04:11,690
+Been off this one
+
+49
+00:04:17,310 --> 00:04:22,700
+so it's not been actually Binny's use it to come more to the Indies as in binary formats.
+
+50
+00:04:22,740 --> 00:04:26,760
+If you want to convert the binary pharmaco end in disaster.
+
+51
+00:04:26,910 --> 00:04:30,160
+So you need to use it if until God in desire.
+
+52
+00:04:30,190 --> 00:04:32,610
+Indeed indeed.
+
+53
+00:04:32,730 --> 00:04:33,240
+All right.
+
+54
+00:04:33,240 --> 00:04:35,280
+So this is a value of 18 actually
+
+55
+00:04:53,890 --> 00:04:54,380
+arrive.
+
+56
+00:04:54,480 --> 00:04:55,830
+So this is the value of Ailey.
+
+57
+00:04:55,830 --> 00:05:02,500
+Actually this is similar with our operation in case I forget of course we are.
+
+58
+00:05:02,530 --> 00:05:08,820
+I mean we got to know about an operation and now let us know about this operation so how Python compares
+
+59
+00:05:08,820 --> 00:05:09,900
+to binary formats.
+
+60
+00:05:09,900 --> 00:05:11,680
+I mean do numbers actually.
+
+61
+00:05:11,730 --> 00:05:17,270
+So for 1998 in these two are the binary formats and byte and initially compares the binary formats and.
+
+62
+00:05:17,280 --> 00:05:21,420
+And the result will be a binary and this binary will become region doing this at.
+
+63
+00:05:21,420 --> 00:05:23,470
+So now we got bored and.
+
+64
+00:05:23,530 --> 00:05:31,530
+And let us know what our in case of binary are the result and I mean the result will be one if it is
+
+65
+00:05:31,530 --> 00:05:33,420
+to one of the bits is 1.
+
+66
+00:05:33,600 --> 00:05:36,560
+For example previously the result will be 1.
+
+67
+00:05:36,570 --> 00:05:42,500
+Only if both values are 1 but in the case of are the result will be the result will be 1.
+
+68
+00:05:42,520 --> 00:05:46,100
+If at least one of these conversion Well this was one.
+
+69
+00:05:46,400 --> 00:05:46,780
+OK.
+
+70
+00:05:46,840 --> 00:05:51,990
+And now the output will be 1 seems at least one of the two.
+
+71
+00:05:52,100 --> 00:06:02,370
+What else is one the value will be 1 0 since no all values 1 1 0 1 and it just seems at least one of
+
+72
+00:06:02,370 --> 00:06:05,490
+the two converging values is one the value will be 1.
+
+73
+00:06:05,940 --> 00:06:13,910
+So this is a value of art as and now Python can load this binary format to it.
+
+74
+00:06:14,550 --> 00:06:19,390
+So let's check what's so what was the value of it.
+
+75
+00:06:19,410 --> 00:06:24,050
+And our sorry.
+
+76
+00:06:24,730 --> 00:06:26,530
+So the value should be of us here
+
+77
+00:06:32,780 --> 00:06:34,610
+all right so this was all about
+
+78
+00:06:38,180 --> 00:06:39,270
+binary OR.
+
+79
+00:06:39,410 --> 00:06:42,930
+And what was and what this binary export binary.
+
+80
+00:06:42,980 --> 00:06:44,120
+OK.
+
+81
+00:06:44,210 --> 00:06:49,850
+More in case of binary X or the result will be one.
+
+82
+00:06:50,310 --> 00:06:54,650
+If it leads to 1 which is one button but not both will be 1.
+
+83
+00:06:54,660 --> 00:07:02,850
+I mean when when comparing these two values at least one of the values should be what if both the value
+
+84
+00:07:02,850 --> 00:07:05,560
+should be 1 the value should be zero and and essentially busy.
+
+85
+00:07:05,580 --> 00:07:07,270
+So this is a condition in exo.
+
+86
+00:07:07,500 --> 00:07:20,280
+OK let's deal with it since at least I mean if both should be one the value should be 0 0 0 0 if both
+
+87
+00:07:20,280 --> 00:07:20,690
+are 1.
+
+88
+00:07:20,760 --> 00:07:24,040
+The value should be zero if at least one that should do one.
+
+89
+00:07:24,100 --> 00:07:28,930
+I mean if a list one values one the resultant value should be 1.
+
+90
+00:07:29,430 --> 00:07:36,880
+So this is a binary format in Python by the to end this as 1928 and so what is indeed a representative
+
+91
+00:07:37,500 --> 00:07:40,940
+representation of this.
+
+92
+00:07:44,330 --> 00:07:47,860
+B is well OK.
+
+93
+00:07:48,330 --> 00:08:01,930
+Let's check off what.
+
+94
+00:08:02,810 --> 00:08:08,900
+OK so the binary format of 1 was this one.
+
+95
+00:08:09,010 --> 00:08:20,280
+So so now we got to know about binary binary or similarly binary complement in guess on binary content.
+
+96
+00:08:20,490 --> 00:08:25,430
+When you initialize and then with easy called 9.
+
+97
+00:08:25,560 --> 00:08:32,100
+So how you would negate a value is it is nothing but you.
+
+98
+00:08:32,550 --> 00:08:37,040
+So the negation of nine is nothing but 8.
+
+99
+00:08:37,080 --> 00:08:47,340
+And you can also convert this minus 10 to 9 by using and then negation like mightest in negation back
+
+100
+00:08:47,340 --> 00:08:47,730
+to nine.
+
+101
+00:08:47,760 --> 00:08:49,930
+So this is all about.
+
+102
+00:08:50,120 --> 00:08:52,040
+By then complement or by the negation.
+
+103
+00:08:52,080 --> 00:08:53,480
+So what is left.
+
+104
+00:08:53,760 --> 00:08:55,080
+No we learn about left
+
+105
+00:08:57,830 --> 00:09:04,520
+left is nothing but the left value is moved by Nemeroff bits left.
+
+106
+00:09:04,660 --> 00:09:10,120
+I mean inspired by like I mean the left values more left by the Nemeroff bit specified by like value
+
+107
+00:09:10,510 --> 00:09:23,710
+for example let's take the gold and see what is a binary binary form of it.
+
+108
+00:09:24,690 --> 00:09:28,920
+It's nothing but a double one double zero and one double zero.
+
+109
+00:09:28,950 --> 00:09:36,000
+When we apply live shift operators I mean shift operation on this variable.
+
+110
+00:09:36,000 --> 00:09:38,490
+Yea let's check what was the result of this
+
+111
+00:09:42,060 --> 00:09:42,780
+too.
+
+112
+00:09:42,990 --> 00:09:44,030
+So what is a binary for.
+
+113
+00:09:44,040 --> 00:09:45,870
+So the resultant Indesign was what.
+
+114
+00:09:45,950 --> 00:09:48,070
+Let's take the band in the format of this form that
+
+115
+00:09:54,350 --> 00:09:55,930
+so you can able to see that.
+
+116
+00:09:55,980 --> 00:10:05,150
+Now WWE the one double double one was the one that was it a saw or the value the binary format has moved
+
+117
+00:10:05,430 --> 00:10:10,050
+to its left to reflect back into its right so.
+
+118
+00:10:10,100 --> 00:10:13,200
+So it has more left actually.
+
+119
+00:10:13,610 --> 00:10:16,540
+Now let's take a ball right
+
+120
+00:10:19,720 --> 00:10:22,480
+next to initialize and available.
+
+121
+00:10:23,360 --> 00:10:23,870
+Right.
+
+122
+00:10:24,110 --> 00:10:26,780
+Let's and right shift operation on these very
+
+123
+00:10:32,470 --> 00:10:33,360
+too.
+
+124
+00:10:33,850 --> 00:10:35,990
+Was that really when you say OK let's take it.
+
+125
+00:10:35,990 --> 00:10:38,830
+So initially we need to check what was a binary representation of B
+
+126
+00:10:44,030 --> 00:10:44,430
+B.
+
+127
+00:10:44,570 --> 00:10:49,830
+Ok so the binary presentation of bit was double and was it a wonder.
+
+128
+00:10:50,540 --> 00:10:56,730
+Let's check and see how I played the blame the right shift operation on this variable be.
+
+129
+00:10:57,020 --> 00:10:59,290
+So the reason that the result was 25.
+
+130
+00:10:59,300 --> 00:11:02,000
+So let's say that by an 80 percent it's not 25.
+
+131
+00:11:02,040 --> 00:11:08,780
+And and and see where that goes by 80 percent in and has been moved Booby's it's right or not
+
+132
+00:11:11,180 --> 00:11:14,700
+would be fine.
+
+133
+00:11:15,230 --> 00:11:15,950
+Yes.
+
+134
+00:11:15,980 --> 00:11:25,450
+So double one double 0 1 these binary digits has me has more Booby's it's right by the leading 0 0 0.
+
+135
+00:11:25,520 --> 00:11:31,130
+We've been able to see the length of this one two three four five six seven and here and here the left
+
+136
+00:11:31,130 --> 00:11:31,810
+was only five.
+
+137
+00:11:31,810 --> 00:11:35,260
+That means he has more to do this right.
+

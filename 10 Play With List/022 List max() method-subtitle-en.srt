@@ -1,0 +1,40 @@
+1
+00:00:01,300 --> 00:00:08,070
+I'm going to explain to somebody in function or mattered in the list first.
+
+2
+00:00:08,080 --> 00:00:13,770
+My third is Max my third Max My third is simply too don't you.
+
+3
+00:00:13,830 --> 00:00:18,960
+I don't have maximum value in the list of items.
+
+4
+00:00:19,040 --> 00:00:22,180
+I created a list and assigning some new
+
+5
+00:00:28,290 --> 00:00:29,490
+heavy dopes.
+
+6
+00:00:29,650 --> 00:00:33,690
+Now I'm going to print the next thing and look at this instead.
+
+7
+00:00:33,690 --> 00:00:39,320
+I don't see that the abuse maximum per and put it
+
+8
+00:00:42,490 --> 00:00:46,370
+together Izard 83 because 83 is the largest.
+
+9
+00:00:46,420 --> 00:00:47,700
+Does it have a new insert.
+
+10
+00:00:47,740 --> 00:00:48,880
+This list of items.
+

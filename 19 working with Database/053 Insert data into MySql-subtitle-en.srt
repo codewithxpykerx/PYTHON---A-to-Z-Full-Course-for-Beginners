@@ -1,0 +1,252 @@
+1
+00:00:00,600 --> 00:00:03,510
+Welcome to them why don't you do it today.
+
+2
+00:00:03,600 --> 00:00:10,770
+We're going to learn how to insert data in our database by using my Escuela workbench as well as by
+
+3
+00:00:10,800 --> 00:00:11,960
+tenis script here.
+
+4
+00:00:11,970 --> 00:00:20,930
+I just opened up my school of workbench and now we use our database which is just after that and hit
+
+5
+00:00:21,020 --> 00:00:21,500
+enter.
+
+6
+00:00:21,520 --> 00:00:30,600
+We just come on Enter NOW and when I insert some data by using Insert key word so he destroyed it.
+
+7
+00:00:31,100 --> 00:00:40,010
+After that going to employed so employees are table in our database.
+
+8
+00:00:40,010 --> 00:00:42,680
+After that it took pass some paramita.
+
+9
+00:00:42,710 --> 00:00:44,780
+So the first parameter is the ID.
+
+10
+00:00:44,910 --> 00:00:48,620
+Second one is only the Tortoni's A B or B.
+
+11
+00:00:48,800 --> 00:00:50,400
+And the last one is an e-mail.
+
+12
+00:00:50,570 --> 00:00:57,860
+After that write a values and entered the appendices we have to assign some values.
+
+13
+00:00:57,890 --> 00:00:59,440
+The first one is ID.
+
+14
+00:00:59,660 --> 00:01:01,120
+So here I just write one.
+
+15
+00:01:01,280 --> 00:01:03,170
+So ID is indeed fooled.
+
+16
+00:01:03,350 --> 00:01:05,910
+The second one has a name field which is a string.
+
+17
+00:01:06,110 --> 00:01:12,160
+So you just straight elex the turban is also the string.
+
+18
+00:01:12,290 --> 00:01:13,750
+But it is a date of birth.
+
+19
+00:01:13,850 --> 00:01:19,280
+So here it is right 1989 0 9 and grindy.
+
+20
+00:01:19,280 --> 00:01:22,920
+So this is the format to write a did in my A-squared.
+
+21
+00:01:23,030 --> 00:01:28,150
+After that the last one is a human so you can pass any human
+
+22
+00:01:31,070 --> 00:01:34,340
+right after the bad analysis and he'd come on to enter.
+
+23
+00:01:34,470 --> 00:01:38,920
+And here you can see the table is created and one is affected.
+
+24
+00:01:38,920 --> 00:01:46,220
+And now I'm going to show you how to see the values from the table by writing select Esterbrook Mark
+
+25
+00:01:46,880 --> 00:01:51,970
+and from employee and hit enter.
+
+26
+00:01:51,990 --> 00:01:57,110
+Here you can see the names Alex and headed or both and Gannascoli is the e-mail.
+
+27
+00:01:57,440 --> 00:02:03,180
+So this is the process to insert a data in our database by using might as workbench.
+
+28
+00:02:03,290 --> 00:02:08,430
+And now let's move to the bitless script insert a data in our database.
+
+29
+00:02:08,470 --> 00:02:19,840
+So here I just copy all the values we just insert into and after that I'll paste here 10 days.
+
+30
+00:02:19,860 --> 00:02:22,910
+In addition as I just.
+
+31
+00:02:23,010 --> 00:02:24,770
+Are Indian correct manner.
+
+32
+00:02:24,960 --> 00:02:30,240
+So here the values are inserted and now at last I have to write.
+
+33
+00:02:30,240 --> 00:02:35,480
+SIEGEL And with is variable connection for that period.
+
+34
+00:02:35,520 --> 00:02:44,670
+And now I'm going to commit these values in our database and now that and just want do sort a view of
+
+35
+00:02:44,670 --> 00:02:46,380
+the things and venues here.
+
+36
+00:02:47,500 --> 00:02:48,700
+Name is Peter
+
+37
+00:02:51,610 --> 00:02:59,420
+the idea as to the date or something like that which is nineteen ninety
+
+38
+00:03:02,140 --> 00:03:10,010
+and the image is also jeunes hotmail dot com.
+
+39
+00:03:10,320 --> 00:03:15,440
+So now to save this and this Mordieu.
+
+40
+00:03:15,670 --> 00:03:17,490
+So here we did not get any error.
+
+41
+00:03:17,530 --> 00:03:22,760
+So let's move to my school workbench to see whether it is been started or not.
+
+42
+00:03:22,800 --> 00:03:26,260
+I'm going to clear this one now.
+
+43
+00:03:26,400 --> 00:03:34,110
+First I have to use a test it is using command enter and the second one is a select start from employees
+
+44
+00:03:34,230 --> 00:03:42,840
+just click command enter so you can see the second ID is to name the Peter and part 1 is the date of
+
+45
+00:03:42,840 --> 00:03:47,750
+birth which is 1990 and the last one is that in C there are 12 are gone.
+
+46
+00:03:47,760 --> 00:03:53,340
+So this is the process to insert a data by using up by a script.
+
+47
+00:03:53,340 --> 00:04:01,410
+So despite your mice could command regions of mice will code in your eggs a good but entities here and
+
+48
+00:04:01,410 --> 00:04:03,600
+now I'm going to show you the data.
+
+49
+00:04:03,660 --> 00:04:12,100
+You know I can script to just do don't come here just write but and microcell
+
+50
+00:04:14,720 --> 00:04:31,220
+don't fetch on and then just more do so there's some and I'm not there said to fetch I think these are
+
+51
+00:04:31,230 --> 00:04:32,490
+some I don't.
+
+52
+00:04:32,720 --> 00:04:41,630
+Because if you write some code which is Microsoft Daut exiguous.
+
+53
+00:04:41,850 --> 00:04:43,300
+So stay with us.
+
+54
+00:04:44,980 --> 00:04:50,820
+So Damons and ahu on this Monday.
+
+55
+00:04:52,670 --> 00:05:02,900
+We got the result which is employer and student and now we're right here which is and it's the Senate
+
+56
+00:05:03,970 --> 00:05:10,250
+star from the M B and O Y employer.
+
+57
+00:05:10,460 --> 00:05:15,000
+This will fetch all the data as you see in my school work bench.
+
+58
+00:05:15,020 --> 00:05:19,280
+We just select the star from employees when we click hit enter.
+
+59
+00:05:19,370 --> 00:05:20,790
+So there is a pop up.
+
+60
+00:05:20,870 --> 00:05:22,490
+So all the details here.
+
+61
+00:05:22,520 --> 00:05:27,370
+Also we just select a star from Employee table and this morning you
+
+62
+00:05:30,420 --> 00:05:37,160
+we get a result which is the name did second or the name date.
+
+63
+00:05:37,170 --> 00:05:42,500
+So this is the process to insert data and to show the data by using Pythonesque.
+

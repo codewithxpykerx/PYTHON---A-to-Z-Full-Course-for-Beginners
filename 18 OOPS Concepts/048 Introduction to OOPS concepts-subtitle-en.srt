@@ -1,0 +1,136 @@
+1
+00:00:00,570 --> 00:00:07,510
+Welcome to the 500 we're here today we are going to learn the concept of hoops in Python.
+
+2
+00:00:07,530 --> 00:00:12,880
+So what is the full from of boops with the object oriented programming and system.
+
+3
+00:00:12,930 --> 00:00:19,540
+So the entire concept is derived from the word we just classes and objects.
+
+4
+00:00:19,560 --> 00:00:22,070
+So what is a class and what is the object.
+
+5
+00:00:22,070 --> 00:00:31,260
+A class is a model which consists of matter and data an object is anything that really exists in the
+
+6
+00:00:31,260 --> 00:00:31,800
+world.
+
+7
+00:00:32,740 --> 00:00:38,890
+So let's take a simple example to understand the process and the objects.
+
+8
+00:00:38,890 --> 00:00:45,850
+Suppose there is a building inside the city so the building exists physically inside the world.
+
+9
+00:00:45,850 --> 00:00:47,910
+So the building is the object.
+
+10
+00:00:48,120 --> 00:00:51,930
+And now suppose you have a paper instead of paper.
+
+11
+00:00:52,020 --> 00:00:54,140
+There is a sketch of the building.
+
+12
+00:00:54,220 --> 00:00:57,240
+So the paper is a blueprint of that building.
+
+13
+00:00:57,430 --> 00:01:04,390
+So the paper is called the classes which means that the people considered all the models which is data
+
+14
+00:01:04,390 --> 00:01:07,360
+and method to build a building.
+
+15
+00:01:07,600 --> 00:01:13,430
+So this is the class of people and there is the object which is physically exist inside the world.
+
+16
+00:01:13,540 --> 00:01:18,240
+So now let's take another example to understand the class as an object.
+
+17
+00:01:18,250 --> 00:01:24,580
+So here we have two things in Lampron side we have a recipe to bake a cake.
+
+18
+00:01:24,990 --> 00:01:28,210
+And in the left hand side we have some cakes.
+
+19
+00:01:28,240 --> 00:01:32,240
+So as we know that a recipe is needed to bake a cake.
+
+20
+00:01:32,320 --> 00:01:37,310
+So this recipe is called a class and the gate is called the object.
+
+21
+00:01:37,330 --> 00:01:44,370
+So the main difference between the class and object here which is a kitchen but you can bet it is big.
+
+22
+00:01:44,590 --> 00:01:50,720
+It means that we actually exist in the world but we can't eat up a recipe.
+
+23
+00:01:50,800 --> 00:01:58,720
+So when we bake a cake which means that we create an object according to the class definition plus definition
+
+24
+00:01:58,750 --> 00:02:04,000
+means that ingredient and the method which exist in the recipe.
+
+25
+00:02:04,000 --> 00:02:11,020
+So here we go the list all the things with our class as an object to simply we have a class which is
+
+26
+00:02:11,020 --> 00:02:13,880
+a recipe and the object which is a cake.
+
+27
+00:02:14,020 --> 00:02:20,680
+So as I already said that class consists of the data and the method to insert the recipe.
+
+28
+00:02:20,830 --> 00:02:26,860
+We have some ingredients and after that we have some matters the ingredients are data and the metal
+
+29
+00:02:26,860 --> 00:02:29,820
+is a way to make the cake.
+
+30
+00:02:30,010 --> 00:02:35,650
+So when making something inside our glasses all we can say in that order is to be then the object will
+
+31
+00:02:35,650 --> 00:02:36,970
+also change.
+
+32
+00:02:37,180 --> 00:02:39,910
+So that's all about the glass as an object.
+
+33
+00:02:39,910 --> 00:02:45,760
+So now let's move to the other topic where we can see how to make the pluses and how to make the object
+
+34
+00:02:46,190 --> 00:02:46,840
+in Python.
+

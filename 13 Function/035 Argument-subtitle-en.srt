@@ -1,0 +1,348 @@
+1
+00:00:02,160 --> 00:00:07,780
+This to do it you we're going to discuss some argument which are used in function.
+
+2
+00:00:07,800 --> 00:00:10,940
+So the first argument is required argument.
+
+3
+00:00:11,310 --> 00:00:19,230
+These are the main boss to function of correct order which means that the number of argument in the
+
+4
+00:00:19,230 --> 00:00:24,420
+function call sort of matched exactly to the function definition.
+
+5
+00:00:24,420 --> 00:00:30,750
+So it is necessary to get the exact value in the function call and the function definition.
+
+6
+00:00:30,960 --> 00:00:34,870
+So let's understand this simple example here.
+
+7
+00:00:34,920 --> 00:00:39,450
+I'm going to create a function after that I'll explain you the required argument.
+
+8
+00:00:39,640 --> 00:00:42,450
+So for that if you use a keyboard.
+
+9
+00:00:43,200 --> 00:00:51,190
+Hello I'm going to simply print the string Hello world.
+
+10
+00:00:55,840 --> 00:01:02,290
+After that I'll simply tear down this function and outside the function to simply call this function
+
+11
+00:01:02,290 --> 00:01:03,120
+by me.
+
+12
+00:01:03,520 --> 00:01:05,310
+So we'll get the result.
+
+13
+00:01:05,620 --> 00:01:08,560
+Hello Will we get the result.
+
+14
+00:01:08,560 --> 00:01:09,220
+Hello world.
+
+15
+00:01:09,400 --> 00:01:10,080
+So where do you get it.
+
+16
+00:01:10,100 --> 00:01:17,790
+Why the argument inside this function like X and we did not pass anything inside this calling function.
+
+17
+00:01:17,800 --> 00:01:25,700
+Then we'll get the argument error so we can see quite the argument as it is shown.
+
+18
+00:01:25,950 --> 00:01:31,270
+So here I'm going to simply pass a variable x here.
+
+19
+00:01:31,560 --> 00:01:34,340
+I we learned this morning we'll get the.
+
+20
+00:01:34,420 --> 00:01:37,720
+Hello world we get the result.
+
+21
+00:01:38,140 --> 00:01:45,400
+X is not defined so for that we can define X equal to then we'll get there.
+
+22
+00:01:45,700 --> 00:01:49,250
+Hello world what is functioning correctly.
+
+23
+00:01:49,530 --> 00:01:52,090
+These are all about the quarte argument.
+
+24
+00:01:52,180 --> 00:01:57,780
+Insert the function the next argument is the key word argument.
+
+25
+00:01:57,820 --> 00:02:00,010
+It is related to a function call.
+
+26
+00:02:00,220 --> 00:02:02,010
+So then call the function.
+
+27
+00:02:02,290 --> 00:02:06,570
+We have to identify the argument by the bad name.
+
+28
+00:02:06,700 --> 00:02:15,530
+So let's understand from the example here Anglo-Dutch simply create a function named hello and instead
+
+29
+00:02:15,560 --> 00:02:18,000
+the parent has put x.
+
+30
+00:02:18,310 --> 00:02:24,520
+After that I will simply print the value of X let me call the function here.
+
+31
+00:02:24,640 --> 00:02:30,660
+I'm going to simply call the function by the name hello and insert the function and put 23.
+
+32
+00:02:30,810 --> 00:02:35,640
+So this tree is passed to the variable x and the X is printed.
+
+33
+00:02:35,700 --> 00:02:38,000
+So when you get there is an entity.
+
+34
+00:02:38,050 --> 00:02:40,210
+So what is a good argument.
+
+35
+00:02:40,440 --> 00:02:41,590
+This function.
+
+36
+00:02:41,590 --> 00:02:47,330
+So I think I already said when to call the function we have to identify this argument by that by and
+
+37
+00:02:47,330 --> 00:02:48,630
+with the name.
+
+38
+00:02:48,640 --> 00:02:51,930
+So I'll put X to and granted 3.
+
+39
+00:02:52,150 --> 00:02:56,950
+So this value of going to 3 is identified by the bet and we don't name x.
+
+40
+00:02:57,070 --> 00:03:00,470
+So this gives you an argument so is all about.
+
+41
+00:03:00,530 --> 00:03:02,950
+Your argument in function.
+
+42
+00:03:02,950 --> 00:03:06,600
+The next argument is a default argument.
+
+43
+00:03:06,640 --> 00:03:13,390
+It is the argument that defines the value of value is not provided in the function.
+
+44
+00:03:13,810 --> 00:03:16,760
+So let's understand a simple example.
+
+45
+00:03:17,410 --> 00:03:21,010
+I'm going to get a simple function.
+
+46
+00:03:21,430 --> 00:03:23,890
+Hello is that the function.
+
+47
+00:03:23,890 --> 00:03:26,230
+Simply put X in the right loop.
+
+48
+00:03:26,890 --> 00:03:33,970
+After that it is simply print the value of x and y.
+
+49
+00:03:35,170 --> 00:03:41,160
+So I'll try the function to simply call this function by the name hello and insert the function will
+
+50
+00:03:41,470 --> 00:03:44,990
+give to them and we don't get 3 in the 45.
+
+51
+00:03:45,520 --> 00:03:50,740
+So within this month you will get the exact result which is 23 and 45.
+
+52
+00:03:50,740 --> 00:03:52,930
+So what does that do for an argument.
+
+53
+00:03:52,960 --> 00:04:01,120
+So then we remove this value from the calling function and would insert the definition of the function.
+
+54
+00:04:01,140 --> 00:04:09,010
+So so what bystander's it will firstly copy the value guaranteed to insert this variable x.
+
+55
+00:04:09,010 --> 00:04:11,890
+So then within this model we will get the exact result.
+
+56
+00:04:11,890 --> 00:04:14,010
+We just don't want to fight.
+
+57
+00:04:14,250 --> 00:04:17,190
+So these are all about a default argument.
+
+58
+00:04:19,720 --> 00:04:27,340
+The next argument is the variable length argument these type of argument is used when we define the
+
+59
+00:04:27,340 --> 00:04:34,960
+function and we don't know how many argument we are going to parse in certain function which means that
+
+60
+00:04:35,260 --> 00:04:41,780
+the perimeter and the argument both of very As But our requirement.
+
+61
+00:04:41,890 --> 00:04:44,720
+So let us understand to a simple example.
+
+62
+00:04:45,160 --> 00:04:51,040
+First you have to create a function but that would be and name the function.
+
+63
+00:04:51,040 --> 00:04:51,620
+Hello.
+
+64
+00:04:52,030 --> 00:05:03,310
+And instead the function parent is put to Mr X and then and before and I'll put a stick mark this denoted
+
+65
+00:05:03,310 --> 00:05:07,480
+that here you pass as many value.
+
+66
+00:05:07,540 --> 00:05:08,660
+Insert this.
+
+67
+00:05:08,720 --> 00:05:09,500
+Bette Midler.
+
+68
+00:05:09,520 --> 00:05:13,720
+So first you have to put in the belly of.
+
+69
+00:05:14,230 --> 00:05:21,290
+So as to return the function and simply call it function by using.
+
+70
+00:05:21,510 --> 00:05:23,250
+And here I put.
+
+71
+00:05:23,290 --> 00:05:29,170
+Well so this 12 is complete good this variable x and x is printed.
+
+72
+00:05:30,280 --> 00:05:31,110
+Hey we get this.
+
+73
+00:05:31,180 --> 00:05:39,190
+Well and now I'm going to give some different value and insert the function with attractive 4 4 5 and
+
+74
+00:05:39,480 --> 00:05:40,470
+6.
+
+75
+00:05:40,900 --> 00:05:44,190
+So here we have three values for this variable.
+
+76
+00:05:44,230 --> 00:05:48,490
+And so this TV news is stored in the variable.
+
+77
+00:05:48,550 --> 00:05:56,550
+And so I'm going to simply get the value from that and using a for loop for B.
+
+78
+00:05:57,220 --> 00:06:09,510
+And I would simply put in value be we this more to be able to get that IZARD Well and after that we
+
+79
+00:06:09,520 --> 00:06:12,880
+will prevent you from the variable x.
+
+80
+00:06:12,910 --> 00:06:15,960
+We just turned it for 6 and 45.
+
+81
+00:06:16,270 --> 00:06:22,850
+So here this variable lenth argument is two values and the variable length Bellamy is.
+
+82
+00:06:22,990 --> 00:06:25,630
+And we can pass different vendors.
+
+83
+00:06:25,660 --> 00:06:27,650
+Day 6 again.
+
+84
+00:06:27,790 --> 00:06:33,730
+Certainly 18N this on the values is taught instead is very well.
+
+85
+00:06:34,090 --> 00:06:36,880
+Because these a strict MA which do not.
+
+86
+00:06:36,920 --> 00:06:42,420
+The bill passes different values and many believe in this very well.
+
+87
+00:06:42,870 --> 00:06:46,840
+So these are all about a variable argument function.
+

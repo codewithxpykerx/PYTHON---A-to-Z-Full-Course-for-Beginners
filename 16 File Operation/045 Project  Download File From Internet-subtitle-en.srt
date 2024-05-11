@@ -1,0 +1,72 @@
+1
+00:00:00,840 --> 00:00:08,970
+Welcome to the Python tutorial Craig we are going to learn how to download a file Internet using Python
+
+2
+00:00:09,270 --> 00:00:10,260
+script.
+
+3
+00:00:10,350 --> 00:00:17,150
+I just opened up writing a script and now I want to import a library which we use to request or you
+
+4
+00:00:17,150 --> 00:00:19,060
+are from internet.
+
+5
+00:00:19,080 --> 00:00:29,260
+So for that to use import you are in IB if you are in the dirt bequest.
+
+6
+00:00:29,480 --> 00:00:34,210
+So this library is used to request data from the Internet.
+
+7
+00:00:34,430 --> 00:00:40,490
+In the next lane I'm going to use this library we're using your own label.
+
+8
+00:00:40,730 --> 00:00:47,130
+Got the quest dot you are in.
+
+9
+00:00:47,410 --> 00:00:59,840
+Dave So this trip is a method in service you are a library that for the fantasies and insert the parenthesis.
+
+10
+00:01:00,030 --> 00:01:08,310
+You have to put the part of your file from internet so now go to the browsers and search something which
+
+11
+00:01:08,310 --> 00:01:19,640
+is Treen just click images stick to form and copy this link.
+
+12
+00:01:20,410 --> 00:01:32,580
+This is as true degree and now we're here to put the name of your file which is Jane JPT from this murder.
+
+13
+00:01:32,680 --> 00:01:35,770
+And so here we did not get any error.
+
+14
+00:01:36,030 --> 00:01:41,830
+We have a file index dropped because the brightness script is set on dextro.
+
+15
+00:01:41,910 --> 00:01:44,390
+That's why the pilots don't know that dextro.
+
+16
+00:01:44,730 --> 00:01:47,690
+So here we have a file we just don't get it.
+
+17
+00:01:47,970 --> 00:01:52,560
+So the fight is don't know where the biting script is saved.
+
+18
+00:01:52,560 --> 00:01:57,590
+So this is the process to download any file from Internet using in script.
+

@@ -1,0 +1,44 @@
+1
+00:00:01,090 --> 00:00:07,270
+Go to my third year Doan's I don't how many times repeated in sarod the list.
+
+2
+00:00:07,340 --> 00:00:11,210
+So for that I initially created a list for the same list.
+
+3
+00:00:11,220 --> 00:00:18,060
+Now I want to attribute some I don't which is 1 6 7 and 23 and 23.
+
+4
+00:00:18,080 --> 00:00:22,700
+So here I'm going to count the reglue 23.
+
+5
+00:00:22,790 --> 00:00:23,750
+So you don't
+
+6
+00:00:28,070 --> 00:00:28,820
+get three
+
+7
+00:00:31,630 --> 00:00:33,010
+Freydon this more deal.
+
+8
+00:00:34,340 --> 00:00:36,330
+So how do we get less than three.
+
+9
+00:00:36,380 --> 00:00:42,260
+Because this going to triva a new repeated three times inside of this list.
+
+10
+00:00:42,390 --> 00:00:45,380
+So simply called method really don't you.
+
+11
+00:00:45,590 --> 00:00:49,600
+I don't which are repeated inside the Lisp.
+

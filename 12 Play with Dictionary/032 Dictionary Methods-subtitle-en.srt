@@ -1,0 +1,284 @@
+1
+00:00:01,410 --> 00:00:08,310
+In this medium we're going to talk about some really didn't matter which I use the dictionary.
+
+2
+00:00:08,880 --> 00:00:17,380
+The first letter is a lengthy letter the Lennon-McCartney simply we don't know the number of item or
+
+3
+00:00:17,700 --> 00:00:23,640
+the number of people here which are exist in the dictionary.
+
+4
+00:00:23,880 --> 00:00:26,790
+So first we have to create our dictionary.
+
+5
+00:00:27,030 --> 00:00:34,250
+So here I created a dictionary as I know some believe in the dictionary.
+
+6
+00:00:34,380 --> 00:00:40,880
+And now I'm moving to the left of this dictionary.
+
+7
+00:00:41,250 --> 00:00:47,140
+I put in an instead the prentices and it put me in.
+
+8
+00:00:47,190 --> 00:00:49,260
+Which is a dictionary.
+
+9
+00:00:49,990 --> 00:00:59,590
+Here we are in this model and we get it for because we have four beer in this direction.
+
+10
+00:00:59,780 --> 00:01:00,980
+So these are all about.
+
+11
+00:01:01,120 --> 00:01:04,710
+Let me turn the next letter is.
+
+12
+00:01:05,030 --> 00:01:05,790
+My card.
+
+13
+00:01:06,060 --> 00:01:13,750
+The third is simply to the end of the envelope here which are existe and center dictionary.
+
+14
+00:01:13,830 --> 00:01:16,670
+So I heard a caller playing her.
+
+15
+00:01:16,890 --> 00:01:20,750
+No I'm going to read the dictionary.
+
+16
+00:01:21,000 --> 00:01:22,020
+So here being here is a
+
+17
+00:01:26,010 --> 00:01:32,780
+preserved in the dictionary because the items are clear using this clear weather.
+
+18
+00:01:32,870 --> 00:01:42,750
+So it is all about my kind of the next letter is the letter a copy of my third used to copy the item
+
+19
+00:01:42,930 --> 00:01:45,400
+which exist inside the dictionary.
+
+20
+00:01:45,540 --> 00:01:49,290
+So here I could get her duple variable B.
+
+21
+00:01:49,330 --> 00:01:53,560
+Now I'm going to copy the next day.
+
+22
+00:01:53,760 --> 00:02:04,290
+I don't see why we mattered which means that this dictionary is copying the new variable B.
+
+23
+00:02:04,480 --> 00:02:10,090
+And now I'm going to create the dictionary B.
+
+24
+00:02:10,470 --> 00:02:13,150
+So here it is.
+
+25
+00:02:13,950 --> 00:02:18,470
+So how do you get these are the same as you see in the dictionary.
+
+26
+00:02:18,540 --> 00:02:27,360
+Because this dictionary in its copy with a variable A B B G A B is a newly created dictionary having
+
+27
+00:02:27,360 --> 00:02:32,760
+the same value you we're still all about r.p.m.
+
+28
+00:02:35,450 --> 00:02:43,810
+the next time I don't either get ready or get my third return value for the given key if a key is in
+
+29
+00:02:43,820 --> 00:02:47,970
+north and then it will get done.
+
+30
+00:02:48,190 --> 00:02:54,430
+So for that I'm going to grade the value the time or the
+
+31
+00:02:58,450 --> 00:03:06,020
+propels it in you know we don't just want to do it here we get results.
+
+32
+00:03:06,210 --> 00:03:08,380
+I point to the the stream.
+
+33
+00:03:08,420 --> 00:03:13,370
+So seeing this proposal it key associated with this string.
+
+34
+00:03:13,470 --> 00:03:18,000
+I clearly now listing to them another key to
+
+35
+00:03:20,840 --> 00:03:27,150
+four letter than this one you begin going because it runs down.
+
+36
+00:03:27,210 --> 00:03:37,890
+Because this iPhone 4 is associated with this village rather than it is all about to get I heard the
+
+37
+00:03:37,890 --> 00:03:45,470
+national anthem and either I don't know I heard this and I third it on listo dictionary having a game
+
+38
+00:03:45,480 --> 00:03:48,320
+when do you know doubles form.
+
+39
+00:03:48,490 --> 00:03:52,040
+So from there we have a dictionary called me.
+
+40
+00:03:52,090 --> 00:03:58,790
+Now I'm going to simply print the items top items.
+
+41
+00:04:00,070 --> 00:04:05,000
+Here we get the result in the top of the form.
+
+42
+00:04:05,320 --> 00:04:10,780
+You see all the people appear in parentheses.
+
+43
+00:04:10,830 --> 00:04:16,650
+Which means that we use doubles and all the items are in the upper tier.
+
+44
+00:04:16,860 --> 00:04:20,010
+It is all about the items method.
+
+45
+00:04:20,100 --> 00:04:30,240
+The next one third is or isn't after the kids letter becomes our list of all the 11 there in the dictionary
+
+46
+00:04:30,720 --> 00:04:40,110
+that we have a dictionary called B and insert the dictionary so you will be ours and I'm going to simply
+
+47
+00:04:40,440 --> 00:04:52,730
+read all the Brennus in thought he might as I call this method get you right as now on this morning.
+
+48
+00:04:52,770 --> 00:04:58,600
+So here we get the result right on the nine and seven.
+
+49
+00:04:58,620 --> 00:05:03,190
+So these four items are key in this dictionary.
+
+50
+00:05:03,480 --> 00:05:06,270
+So is all about the method.
+
+51
+00:05:07,860 --> 00:05:11,800
+The next letter is update letter the other day.
+
+52
+00:05:11,820 --> 00:05:16,610
+My third I used to add two or more to the dictionary.
+
+53
+00:05:16,830 --> 00:05:20,280
+And after that you would get the updated results.
+
+54
+00:05:20,490 --> 00:05:26,370
+So here I go is having a variable B and B.
+
+55
+00:05:26,370 --> 00:05:33,930
+Now I'm going to get the dictionary using this dictionary will be for that.
+
+56
+00:05:34,230 --> 00:05:43,510
+We have to use it or abrogate my third and instead the president his I put my name b afraid that is
+
+57
+00:05:43,530 --> 00:05:45,090
+simply wrong.
+
+58
+00:05:45,130 --> 00:05:48,740
+The updated X to the it is a.
+
+59
+00:05:49,740 --> 00:06:00,350
+So here we get the result in the updated form because initially we have only 4 item in said dictionary.
+
+60
+00:06:00,600 --> 00:06:03,330
+And after that I updated the dictionary.
+
+61
+00:06:03,330 --> 00:06:08,140
+We have 8 items as we see in this output.
+
+62
+00:06:08,140 --> 00:06:09,420
+So these are all out.
+
+63
+00:06:09,810 --> 00:06:16,830
+Updated my third of the last 20 odd benches method.
+
+64
+00:06:17,340 --> 00:06:24,480
+The Vellis method simply written down all those values which are exist in the dictionary.
+
+65
+00:06:24,720 --> 00:06:29,730
+So I'm going to simply read all the values using this method.
+
+66
+00:06:29,790 --> 00:06:34,980
+Here is a dictionary and order and then is the other.
+
+67
+00:06:35,010 --> 00:06:37,790
+So I call the values method.
+
+68
+00:06:37,890 --> 00:06:46,500
+So here with this more do we get the result Hagar's Hegazy you get the all values from the dictionary
+
+69
+00:06:46,660 --> 00:06:47,430
+in.
+
+70
+00:06:47,620 --> 00:06:52,590
+These are all about Windows and these are all about the dictionary.
+
+71
+00:06:52,820 --> 00:06:53,250
+You can.
+

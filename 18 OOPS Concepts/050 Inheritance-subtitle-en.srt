@@ -1,0 +1,308 @@
+1
+00:00:00,640 --> 00:00:07,210
+Welcome to the party and to me today we're going to loan inheritance in Brighton.
+
+2
+00:00:07,440 --> 00:00:14,660
+Or we can say inheritance in the word inheritance means acquiring property from other sledged a good
+
+3
+00:00:14,660 --> 00:00:15,410
+example.
+
+4
+00:00:15,580 --> 00:00:20,270
+So here you can see there's a button and there's the sun.
+
+5
+00:00:20,470 --> 00:00:28,120
+So the sun is in some property from their parent which means that the parent is a base class and the
+
+6
+00:00:28,120 --> 00:00:30,220
+Son is derived class.
+
+7
+00:00:30,280 --> 00:00:38,620
+So when we did something inside of this class all we can say in class then the class can easily use
+
+8
+00:00:38,620 --> 00:00:40,980
+the property from the base class.
+
+9
+00:00:41,140 --> 00:00:47,260
+So the inheritance is used to acquire the property from the base class.
+
+10
+00:00:47,380 --> 00:00:50,140
+So there are two types of inheritance.
+
+11
+00:00:50,140 --> 00:00:56,460
+The first one is a single level inheritance and the second one is a multilevel inheritance.
+
+12
+00:00:56,480 --> 00:01:03,640
+So here you can see the child is inherited from a single base class which means that the base class
+
+13
+00:01:03,850 --> 00:01:06,330
+can be a father or mother.
+
+14
+00:01:06,520 --> 00:01:13,550
+So here we use a single level inheritance to acquire the property from the base class.
+
+15
+00:01:13,570 --> 00:01:16,570
+So now what is a multilevel inheritance.
+
+16
+00:01:16,570 --> 00:01:25,190
+Suppose we have a class which is our son and the Son is acquire a property from a base class which is
+
+17
+00:01:25,200 --> 00:01:27,680
+all father and mother.
+
+18
+00:01:27,940 --> 00:01:31,650
+So there is a base class which is father and mother.
+
+19
+00:01:31,840 --> 00:01:37,980
+So the son is acquired the property from the base classes which his father and mother.
+
+20
+00:01:38,040 --> 00:01:40,830
+This is called multi-role inheritance.
+
+21
+00:01:40,900 --> 00:01:46,300
+Now let's take a simple example to understand in doesn't bite.
+
+22
+00:01:46,540 --> 00:01:51,770
+So here I just opened up iTunes script and now I'm going to implement a simple example.
+
+23
+00:01:52,150 --> 00:01:56,240
+So here you have to write applause which is a key word.
+
+24
+00:01:56,470 --> 00:02:04,720
+And after that I like that even the clouds with you father after the input column and get inside the
+
+25
+00:02:05,000 --> 00:02:05,900
+glass.
+
+26
+00:02:05,960 --> 00:02:11,770
+And now I'm redefining of method which is last name
+
+27
+00:02:16,640 --> 00:02:23,020
+and instead the president says I'm the boss of cells.
+
+28
+00:02:24,170 --> 00:02:26,230
+I'm going to print W which is
+
+29
+00:02:32,480 --> 00:02:34,740
+my surname.
+
+30
+00:02:35,230 --> 00:02:42,980
+So here we have a betting class but we get a base class inside the base class we have a method which
+
+31
+00:02:42,980 --> 00:02:44,960
+is a last name.
+
+32
+00:02:44,980 --> 00:02:49,030
+Now I'm going to create a child class or we can say or B I love.
+
+33
+00:02:49,230 --> 00:03:00,880
+So here I will ride class or the alphabet alerts son that's for him and I'm going to declare a method
+
+34
+00:03:00,950 --> 00:03:03,720
+a B which is first name
+
+35
+00:03:09,200 --> 00:03:16,370
+ends are good but intensives put sealed up there and put color good in the method.
+
+36
+00:03:16,630 --> 00:03:27,450
+And now I'm going to simply bring the values of the concept string with just my first name.
+
+37
+00:03:27,500 --> 00:03:33,320
+So here you can see the read in class and after that there is a class.
+
+38
+00:03:33,340 --> 00:03:40,910
+So now how Pitre knows this is a draft class and this is very close to forbad you have to write the
+
+39
+00:03:41,180 --> 00:03:48,530
+name of the class from where you want to acquire the properties or reconsider but in class so far there
+
+40
+00:03:48,530 --> 00:03:50,440
+is a better class.
+
+41
+00:03:50,600 --> 00:03:54,080
+So here we have a class which is equal to father.
+
+42
+00:03:54,120 --> 00:04:06,090
+Now I'm going to an object because as one after the elder son and now I'm going to call the method which
+
+43
+00:04:06,170 --> 00:04:10,220
+is first name.
+
+44
+00:04:10,280 --> 00:04:19,970
+So here we just call the method which is partner from the sun or begins the second class.
+
+45
+00:04:19,970 --> 00:04:23,520
+Now when we do this more do we get the result.
+
+46
+00:04:23,510 --> 00:04:25,260
+My first inning.
+
+47
+00:04:25,550 --> 00:04:30,660
+So now I'm going to acquire the property which is the last name.
+
+48
+00:04:30,700 --> 00:04:32,100
+So here I just tried
+
+49
+00:04:35,280 --> 00:04:48,470
+one Dorte last name so when it is more do we get the result which is equal to my first name and surname.
+
+50
+00:04:48,670 --> 00:04:52,750
+So this my first name is coming from the charted class.
+
+51
+00:04:53,050 --> 00:04:56,200
+And this Sunday was coming from the class.
+
+52
+00:04:56,260 --> 00:04:59,100
+So this is the way to create a better class.
+
+53
+00:04:59,110 --> 00:05:04,290
+And the same class is called a single inheritance.
+
+54
+00:05:04,450 --> 00:05:11,060
+And now I'm going to get another glass to show the multilevel inheritance.
+
+55
+00:05:11,070 --> 00:05:11,800
+I just tried
+
+56
+00:05:15,540 --> 00:05:20,730
+a heavy heavy another class which is mother.
+
+57
+00:05:21,030 --> 00:05:25,470
+So have you ever take classes with his father mother and son.
+
+58
+00:05:25,470 --> 00:05:29,140
+So we have a two parent class which is father and mother.
+
+59
+00:05:29,310 --> 00:05:36,830
+So here I just write my surname to and now I'm going to do it again.
+
+60
+00:05:36,860 --> 00:05:42,720
+We get that Israel would just my first name and the son and now I'm going to edit something and said
+
+61
+00:05:42,750 --> 00:05:44,040
+oh so close.
+
+62
+00:05:44,300 --> 00:05:47,660
+And now I'm going to pass the mother class inside.
+
+63
+00:05:47,820 --> 00:05:51,130
+So close by using the name of the class.
+
+64
+00:05:51,170 --> 00:05:55,970
+So here I just like two classes which is a base class.
+
+65
+00:05:55,970 --> 00:06:10,020
+And now I'm going to simply write as one dark last name or thing or thing which is I think I picked
+
+66
+00:06:10,230 --> 00:06:14,380
+the name of the method which is last name ONE LAST NAME ONE.
+
+67
+00:06:14,610 --> 00:06:18,890
+So here read it and this Madill we get the results.
+
+68
+00:06:18,980 --> 00:06:21,310
+That is my surname too.
+
+69
+00:06:21,350 --> 00:06:28,300
+So you can see these results are coming from the base classes which is from father.
+
+70
+00:06:28,430 --> 00:06:30,230
+And this is from mother.
+
+71
+00:06:30,500 --> 00:06:34,680
+So this is a way to create a modular inheritance in Brighton.
+
+72
+00:06:34,880 --> 00:06:45,530
+You can add many things like when I copy and paste mother Sardi
+
+73
+00:06:49,160 --> 00:07:00,670
+grandmother pasta's base close to the class and third strike three.
+
+74
+00:07:01,050 --> 00:07:10,260
+And here I just start to hear and now I'm going to simply call this method by using the child class.
+
+75
+00:07:10,370 --> 00:07:20,220
+Well just last name to run it on is more do to good reason which is my son 3.
+
+76
+00:07:20,330 --> 00:07:26,710
+So these these are open from the base class and this first one is coming from the child class.
+
+77
+00:07:26,780 --> 00:07:29,890
+So these are all about in head heddes in Python.
+

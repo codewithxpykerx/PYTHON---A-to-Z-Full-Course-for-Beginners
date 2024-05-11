@@ -1,0 +1,148 @@
+1
+00:00:00,120 --> 00:00:02,130
+Welcome to them why can't you do it.
+
+2
+00:00:02,490 --> 00:00:10,180
+Today we are going to loan file handling in Boston which means that how to create file using Python
+
+3
+00:00:10,190 --> 00:00:15,190
+script and how to make some data in text file using byte in the script.
+
+4
+00:00:15,190 --> 00:00:21,340
+So now let's move to the first topic which is how to create a text file using brighteners script.
+
+5
+00:00:21,360 --> 00:00:24,490
+So here I just open up writing a script.
+
+6
+00:00:24,510 --> 00:00:28,580
+So here just click file click new file.
+
+7
+00:00:29,010 --> 00:00:35,480
+And here we have a new script just to save this script in dextro
+
+8
+00:00:38,460 --> 00:00:40,790
+or named Regis file.
+
+9
+00:00:40,800 --> 00:00:48,480
+Don't be like So here you can see there is a script which is file that we like.
+
+10
+00:00:48,480 --> 00:00:56,180
+And now I'm going to create a text file using my script to just write a variable which is fine.
+
+11
+00:00:56,790 --> 00:00:59,820
+You can give any name to this variable after that.
+
+12
+00:00:59,880 --> 00:01:04,740
+Just write a function which is open and inside the open function.
+
+13
+00:01:04,810 --> 00:01:12,510
+If you pass some emitter so the first emitter is the name of the file which is right and the extreme.
+
+14
+00:01:13,020 --> 00:01:15,640
+You can give any name to this file.
+
+15
+00:01:15,930 --> 00:01:20,090
+And after that you have to put a format of the file with this text file.
+
+16
+00:01:20,490 --> 00:01:26,990
+And after the parameter just put a comma after the comma we put a mod.
+
+17
+00:01:27,000 --> 00:01:29,350
+So there are four or five modes.
+
+18
+00:01:29,370 --> 00:01:33,280
+So the first mode is a real mode which is used to read the file.
+
+19
+00:01:33,300 --> 00:01:36,190
+Second what is the right man would you use to write the file.
+
+20
+00:01:36,480 --> 00:01:38,520
+And the third one is the Brennaman.
+
+21
+00:01:38,700 --> 00:01:42,580
+So apparently used to Edita you know existing file.
+
+22
+00:01:42,780 --> 00:01:46,970
+So here I'm going to use the right word to create a text file.
+
+23
+00:01:47,130 --> 00:01:49,850
+So I just put w after the W.
+
+24
+00:01:49,880 --> 00:01:56,870
+I have to put a plus sign to this blessing in disguise that if there is a file in a pod.
+
+25
+00:01:57,180 --> 00:01:59,800
+So just use those file to write something.
+
+26
+00:02:00,030 --> 00:02:04,670
+And if there is no file in the part then just create a file.
+
+27
+00:02:04,840 --> 00:02:07,350
+Each name is white and or text.
+
+28
+00:02:07,620 --> 00:02:10,170
+So here I'm going to use are the bluebloods.
+
+29
+00:02:10,350 --> 00:02:17,490
+If you move this plus sign so this the blue means you want to use a file which is already exist in the
+
+30
+00:02:17,490 --> 00:02:18,010
+box.
+
+31
+00:02:18,150 --> 00:02:21,840
+And after that you want to write something in the file.
+
+32
+00:02:21,890 --> 00:02:29,690
+So now you put plus here and now let's run this Mordieu thing is it's index error.
+
+33
+00:02:30,190 --> 00:02:30,830
+Sawston
+
+34
+00:02:35,910 --> 00:02:42,810
+So here we did not get any error just move to the next door to here you can see the text file whose
+
+35
+00:02:42,810 --> 00:02:46,790
+name is byte under the XP and into the text file.
+
+36
+00:02:46,980 --> 00:02:48,050
+There's no data.
+
+37
+00:02:48,270 --> 00:02:52,200
+So this is the process to create a file using brightener script.
+

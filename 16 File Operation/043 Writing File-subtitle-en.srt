@@ -1,0 +1,124 @@
+1
+00:00:00,510 --> 00:00:05,490
+In this world you're going to learn how to do better instead of fine.
+
+2
+00:00:05,710 --> 00:00:09,610
+But you can say how to create our data into the existing files.
+
+3
+00:00:09,880 --> 00:00:17,320
+So we had already created a file which is right under the XTi and now I'm going to use up right in the
+
+4
+00:00:17,320 --> 00:00:21,650
+script which is fine or B-Boy from Dexter.
+
+5
+00:00:21,730 --> 00:00:22,890
+Just click on file.
+
+6
+00:00:22,960 --> 00:00:28,590
+Just click on open click on desktop and click on finder.
+
+7
+00:00:28,600 --> 00:00:30,290
+Be right.
+
+8
+00:00:30,320 --> 00:00:35,700
+So here I am when I use debut we get used to what I define.
+
+9
+00:00:36,110 --> 00:00:38,280
+And now I'm going create a string.
+
+10
+00:00:38,340 --> 00:00:44,220
+Well just last year after that and would assign some interesting pitches.
+
+11
+00:00:44,280 --> 00:00:46,350
+Hello world.
+
+12
+00:00:48,450 --> 00:00:53,710
+So here the hello world is a string which is stored in the variable Astier.
+
+13
+00:00:54,000 --> 00:00:59,360
+And now I'm going to use a function which is quite fine.
+
+14
+00:00:59,710 --> 00:01:00,320
+Right.
+
+15
+00:01:02,090 --> 00:01:09,980
+Instead the president says I'm going to use a variable which is Astier this hello world is a store inside
+
+16
+00:01:09,980 --> 00:01:11,010
+this function.
+
+17
+00:01:11,060 --> 00:01:18,780
+Right after the fight to close this file using Glos function.
+
+18
+00:01:18,900 --> 00:01:21,680
+And now let's run this model.
+
+19
+00:01:22,530 --> 00:01:24,850
+So here we did not get any error.
+
+20
+00:01:24,930 --> 00:01:28,320
+So let's move to the file which is 560.
+
+21
+00:01:28,320 --> 00:01:29,190
+Just open it.
+
+22
+00:01:29,550 --> 00:01:33,960
+So here you can see the string which is hello world.
+
+23
+00:01:34,180 --> 00:01:40,520
+So this is the way to get all data in your file using bytes and script.
+
+24
+00:01:40,610 --> 00:01:46,990
+And now I'm going to do this data received this and just close this
+
+25
+00:01:50,260 --> 00:02:01,100
+inaugurates will do that by conscript and here I'm going to change something which is still your input.
+
+26
+00:02:03,180 --> 00:02:09,440
+And so in good story duchies and some data
+
+27
+00:02:12,270 --> 00:02:23,250
+or non-Arabs from this Mordieu.
+
+28
+00:02:23,330 --> 00:02:26,800
+Now I'm going to write some to choose from
+
+29
+00:02:30,460 --> 00:02:39,880
+by to just click do no search for the files just by you can read.
+
+30
+00:02:40,000 --> 00:02:47,530
+And here you can see de-listing which is I'm from Brighton which we had typed you know Batan script.
+
+31
+00:02:47,800 --> 00:02:51,520
+So this is the way to create a data using by Pennis script.
+

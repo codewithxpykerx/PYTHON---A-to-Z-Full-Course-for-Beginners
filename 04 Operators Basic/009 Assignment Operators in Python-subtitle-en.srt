@@ -1,0 +1,220 @@
+1
+00:00:00,710 --> 00:00:08,360
+So well what I sent into orbit is actually assignment operators saw use it to assign land use to variables
+
+2
+00:00:09,890 --> 00:00:14,330
+and the different types of assignment values are in the world.
+
+3
+00:00:14,390 --> 00:00:15,960
+Let's see what minus equals.
+
+4
+00:00:15,980 --> 00:00:20,390
+And so on until the one because in the past.
+
+5
+00:00:20,490 --> 00:00:22,110
+OK.
+
+6
+00:00:28,490 --> 00:00:32,300
+OK let's try these examples.
+
+7
+00:00:39,520 --> 00:00:40,480
+5.
+
+8
+00:00:41,000 --> 00:00:43,980
+So we have assigned a variable.
+
+9
+00:00:44,150 --> 00:00:47,100
+I mean we are assigned a value or find a variable.
+
+10
+00:00:47,130 --> 00:00:50,390
+You don't get reading variable you and assign a value to.
+
+11
+00:00:50,390 --> 00:00:53,650
+So these are all the more assigned values.
+
+12
+00:00:53,990 --> 00:01:00,440
+Now let's check what is meant by place equal to nothing but it adds the right side value to the left
+
+13
+00:01:00,440 --> 00:01:03,650
+side value and its end result will be the left side right.
+
+14
+00:01:03,800 --> 00:01:08,050
+OK let's see an example.
+
+15
+00:01:08,090 --> 00:01:12,840
+Yea plus equal to 2.
+
+16
+00:01:13,010 --> 00:01:15,140
+So the result will be 7.
+
+17
+00:01:15,650 --> 00:01:18,170
+That's pretty.
+
+18
+00:01:19,020 --> 00:01:26,670
+So hold the pipe help right in a calculator that yea less equal to 2.
+
+19
+00:01:26,910 --> 00:01:35,620
+Yes insanity was to using that again because to take one to endless two.
+
+20
+00:01:35,750 --> 00:01:37,030
+So this was.
+
+21
+00:01:37,310 --> 00:01:42,740
+So this statement was actually called A's goal is to luck in short.
+
+22
+00:01:43,090 --> 00:01:49,710
+By then I'll be able to modify Python in this manner.
+
+23
+00:01:50,300 --> 00:02:01,710
+Let's take that easy call to center is equal to bless to your best to win it.
+
+24
+00:02:02,430 --> 00:02:03,240
+So.
+
+25
+00:02:03,690 --> 00:02:05,020
+So this was an book.
+
+26
+00:02:05,060 --> 00:02:06,600
+So this is all about equal.
+
+27
+00:02:06,620 --> 00:02:10,670
+And similarly with minus equal if he is equal to four
+
+28
+00:02:13,370 --> 00:02:15,580
+a minus equal to 1.
+
+29
+00:02:15,640 --> 00:02:23,770
+So this is equal to easy called eight minus one seems easy call for is equal to four minus 1 which is
+
+30
+00:02:23,770 --> 00:02:28,140
+nothing but 3:28 that's all.
+
+31
+00:02:28,930 --> 00:02:33,250
+And that's all with the multiplication and of the division.
+
+32
+00:02:33,290 --> 00:02:45,370
+I'll If you want example let's take an example and equality for each division equal to two Donta should
+
+33
+00:02:45,370 --> 00:02:46,950
+be two.
+
+34
+00:02:48,610 --> 00:02:53,080
+Which is nothing but full by two is nothing but a by two.
+
+35
+00:02:55,090 --> 00:02:57,060
+And he would
+
+36
+00:02:59,860 --> 00:03:04,480
+next be easy called Musical 3
+
+37
+00:03:09,160 --> 00:03:10,740
+according to.
+
+38
+00:03:10,860 --> 00:03:14,970
+So he agreed to do it because it's been beat.
+
+39
+00:03:15,770 --> 00:03:16,340
+OK.
+
+40
+00:03:16,450 --> 00:03:23,470
+And now the modulus more as we have discussed just now the more or less is nothing but a reminder of
+
+41
+00:03:23,470 --> 00:03:24,750
+the division operation.
+
+42
+00:03:24,980 --> 00:03:31,670
+OK let's initialize another bailable call see is equal to
+
+43
+00:03:35,570 --> 00:03:46,320
+level see modulars see more or less equal to two Donalson began.
+
+44
+00:03:46,520 --> 00:03:55,190
+I mean if you divide by two the are the minder was one actually plug in C.
+
+45
+00:03:55,520 --> 00:03:57,180
+So they might be one.
+
+46
+00:03:57,290 --> 00:03:58,050
+OK.
+
+47
+00:03:58,160 --> 00:03:59,750
+Now the last one was exponential
+
+48
+00:04:02,360 --> 00:04:04,260
+less easily available.
+
+49
+00:04:04,940 --> 00:04:06,010
+Is equality.
+
+50
+00:04:06,200 --> 00:04:11,620
+And let's try to take the bar of 4 which is now which is nothing by 80 were
+
+51
+00:04:14,870 --> 00:04:21,320
+equal to 4 3 in the.
+
+52
+00:04:21,890 --> 00:04:24,000
+Yes that's right.
+
+53
+00:04:25,090 --> 00:04:25,420
+OK.
+
+54
+00:04:25,430 --> 00:04:28,000
+Now we have got one assignment up us.
+
+55
+00:04:28,040 --> 00:04:32,220
+Let's dig into our big ways operators.
+

@@ -1,0 +1,516 @@
+1
+00:00:00,580 --> 00:00:07,560
+Welcome to the Python tutorial today we're going to talk about string in Python.
+
+2
+00:00:07,580 --> 00:00:14,460
+String is a set of character or we can say that the string is a collection of character represented
+
+3
+00:00:14,470 --> 00:00:18,040
+in a single court order double code.
+
+4
+00:00:18,040 --> 00:00:21,090
+So now let us understand to a simple example.
+
+5
+00:00:22,100 --> 00:00:27,890
+Here I open up by person and now I'm going to get as good some example after that I explain you
+
+6
+00:00:30,680 --> 00:00:31,520
+personally.
+
+7
+00:00:31,690 --> 00:00:40,010
+They presented a string and double called So here we get the result which is a string value.
+
+8
+00:00:40,020 --> 00:00:45,420
+So now again I'm going to give the same well-doing single code.
+
+9
+00:00:45,720 --> 00:00:51,240
+So we get the same value as we get in the previous value.
+
+10
+00:00:51,240 --> 00:00:53,710
+So these are all about string.
+
+11
+00:00:53,730 --> 00:01:01,220
+Now I'm going to explain you some method which are used in string for the first method is the capitalized
+
+12
+00:01:01,250 --> 00:01:09,790
+third capitalized method rewritten the same history but the only difference is that it will return a
+
+13
+00:01:10,330 --> 00:01:12,880
+capital as the first character.
+
+14
+00:01:13,110 --> 00:01:15,280
+So postulate execute this method
+
+15
+00:01:18,280 --> 00:01:24,340
+so firstly you have to create a string for their Hello world
+
+16
+00:01:28,900 --> 00:01:32,000
+and I'm going to call the capitalized method.
+
+17
+00:01:32,130 --> 00:01:38,020
+You don't capitalize.
+
+18
+00:01:38,030 --> 00:01:39,100
+So here we get the result.
+
+19
+00:01:39,110 --> 00:01:39,950
+Hello world.
+
+20
+00:01:40,040 --> 00:01:44,890
+You can see the difference between this and the word and this Helliwell where the edge is capital.
+
+21
+00:01:45,140 --> 00:01:46,920
+And the answer is hello.
+
+22
+00:01:46,940 --> 00:01:49,750
+That is a small capitalized method.
+
+23
+00:01:49,770 --> 00:01:53,500
+Let's give you the first character in capital.
+
+24
+00:01:53,600 --> 00:01:56,370
+So it is all about capitalized method.
+
+25
+00:01:56,450 --> 00:02:06,890
+The second method is the method gone method is used to a character inside the collection of actors for
+
+26
+00:02:06,890 --> 00:02:09,490
+that when to give the.
+
+27
+00:02:09,810 --> 00:02:12,300
+Well Lou at the end.
+
+28
+00:02:12,340 --> 00:02:13,050
+Hello.
+
+29
+00:02:13,270 --> 00:02:15,540
+That's what we do.
+
+30
+00:02:15,890 --> 00:02:21,190
+And again I'm going to print the value your door.
+
+31
+00:02:21,380 --> 00:02:32,070
+See you in the to count and which will leave you up to code and giving it the.
+
+32
+00:02:32,130 --> 00:02:33,750
+So here we get the result.
+
+33
+00:02:33,980 --> 00:02:40,560
+Do you mean that it is to insert this whole string here.
+
+34
+00:02:40,750 --> 00:02:41,560
+Easy ones.
+
+35
+00:02:41,560 --> 00:02:43,930
+And the second is here.
+
+36
+00:02:43,960 --> 00:02:45,250
+So these are all out to count.
+
+37
+00:02:45,250 --> 00:02:48,820
+My third gunmetal will simply count the character.
+
+38
+00:02:49,030 --> 00:02:55,730
+The next method is a Find method find a method used to find the index position of character.
+
+39
+00:02:55,730 --> 00:03:07,680
+So now execute this program and assigning a value which is owned by Stanistreet and when to find be
+
+40
+00:03:08,070 --> 00:03:11,230
+inserted by Peniston.
+
+41
+00:03:11,360 --> 00:03:19,860
+So you don't find earned human activity.
+
+42
+00:03:19,870 --> 00:03:21,750
+So here we get the result too.
+
+43
+00:03:21,960 --> 00:03:26,250
+So detector is in the index position of two.
+
+44
+00:03:26,370 --> 00:03:28,120
+So P is inverted 0.
+
+45
+00:03:28,170 --> 00:03:29,510
+Why isn't one.
+
+46
+00:03:29,640 --> 00:03:31,110
+And Deeson do.
+
+47
+00:03:31,260 --> 00:03:35,780
+So the find character will give you the next position on the character.
+
+48
+00:03:35,790 --> 00:03:38,660
+The next method is alphanumeric method.
+
+49
+00:03:38,840 --> 00:03:41,750
+The alphanumeric method will return either true or false.
+
+50
+00:03:41,760 --> 00:03:46,040
+If your string contents alphanumeric values are unknown.
+
+51
+00:03:46,090 --> 00:03:56,230
+So for that I'm getting ready as I need to string which is hello after that and then to give some dessert
+
+52
+00:03:56,490 --> 00:04:06,340
+after that again and when to write hello or now to print the alphanumeric values so that you don't I
+
+53
+00:04:06,410 --> 00:04:11,350
+s d l and you m.
+
+54
+00:04:11,420 --> 00:04:18,810
+So here we go to the desert to which Muenster our history contains the alphabet X as well as disease.
+
+55
+00:04:18,830 --> 00:04:21,260
+Well you said indeed the Velu.
+
+56
+00:04:21,500 --> 00:04:31,430
+So these are all about alphanumeric Billoo the next method is is Alfar method that is open method will
+
+57
+00:04:31,460 --> 00:04:33,670
+return you either true or false.
+
+58
+00:04:33,810 --> 00:04:38,570
+If your story contains the alphabet or not.
+
+59
+00:04:38,720 --> 00:04:49,000
+So for that I'm when to say if I were adding value which just hello or not and print this condition
+
+60
+00:04:49,850 --> 00:04:54,860
+your daughter is ill be it is alpha.
+
+61
+00:04:54,860 --> 00:04:55,550
+So here we go.
+
+62
+00:04:55,610 --> 00:04:56,100
+No.
+
+63
+00:04:56,210 --> 00:04:56,780
+2.
+
+64
+00:04:56,990 --> 00:05:06,960
+So if I if I'm going to give the hello with one two three and deliver a new it can simply give you the
+
+65
+00:05:06,960 --> 00:05:07,440
+fourth
+
+66
+00:05:13,230 --> 00:05:14,940
+because these are strong.
+
+67
+00:05:15,060 --> 00:05:17,330
+Also condoms are indeed available.
+
+68
+00:05:17,370 --> 00:05:26,160
+So these are all about or is Ulfar method the next method is a digital method deject method will give
+
+69
+00:05:26,160 --> 00:05:27,720
+you either true or false.
+
+70
+00:05:27,780 --> 00:05:33,450
+Depend upon your history contains some character or some business.
+
+71
+00:05:33,780 --> 00:05:44,440
+So for that when to initially give a certain good 3:03 for desert and not ending up in the condition
+
+72
+00:05:45,110 --> 00:05:49,780
+your daughter is did it.
+
+73
+00:05:49,790 --> 00:05:54,770
+So here we go and that was all because I was in Grenadines only a digital value.
+
+74
+00:05:54,950 --> 00:05:58,240
+So these is all about the digital method.
+
+75
+00:05:58,430 --> 00:06:04,620
+The next method is lenth my third lenth and a third will give you the length of characters.
+
+76
+00:06:14,060 --> 00:06:23,950
+Hayse the string are now and when to print the length of character and and and in.
+
+77
+00:06:24,300 --> 00:06:26,170
+So here we get the result 13.
+
+78
+00:06:26,340 --> 00:06:33,660
+So here we count 1 2 3 4 5 6 and the virus is 7 8 9 10.
+
+79
+00:06:33,810 --> 00:06:37,500
+Well today it is all about the lenth character.
+
+80
+00:06:37,500 --> 00:06:46,500
+The next method is a the method no one method will give you the lower value.
+
+81
+00:06:46,570 --> 00:06:49,250
+If you give some random characters.
+
+82
+00:06:49,480 --> 00:06:53,800
+So if I'm going to give some relief as we are I
+
+83
+00:06:57,270 --> 00:07:08,320
+hello world blues get Pradel and all characters are small if you play the hello way
+
+84
+00:07:11,300 --> 00:07:14,460
+Dorte or even the odd.
+
+85
+00:07:14,510 --> 00:07:20,180
+So how do we get the desired all the characters in the smaller to even the Doebbler is also a smaller
+
+86
+00:07:20,180 --> 00:07:20,670
+dose.
+
+87
+00:07:20,900 --> 00:07:24,910
+So it is all about the legitimatized the next Metallica.
+
+88
+00:07:25,190 --> 00:07:33,910
+But I guess my third guess method really give you the non-job character which means that it will give
+
+89
+00:07:33,910 --> 00:07:35,620
+you the capital value.
+
+90
+00:07:35,680 --> 00:07:49,450
+So if came the same hello world string and green the relevant upright
+
+91
+00:07:54,490 --> 00:07:55,520
+so how do we get the results.
+
+92
+00:07:55,600 --> 00:07:58,180
+All the actor in the capital form.
+
+93
+00:07:58,240 --> 00:08:01,780
+So it is all about the apprentice method.
+
+94
+00:08:01,960 --> 00:08:07,590
+The next method is a step Kismat a third step this method is used to Sebha the string.
+
+95
+00:08:07,600 --> 00:08:15,190
+It means that if you give the small actor it was simply swept into the capital character or if you give
+
+96
+00:08:15,190 --> 00:08:18,930
+the capital act it would convert it into the small character.
+
+97
+00:08:19,210 --> 00:08:29,390
+So for that hearing will give the character well character Hello world and now and then to exit this
+
+98
+00:08:33,430 --> 00:08:38,550
+print or now you is done with ISTEP case.
+
+99
+00:08:41,530 --> 00:08:44,250
+Harry get all look at it in a small letter.
+
+100
+00:08:44,500 --> 00:08:46,660
+So if we give the we're in
+
+101
+00:08:49,820 --> 00:08:50,690
+small letters
+
+102
+00:08:55,740 --> 00:09:06,840
+or in this don't ask is SEPIC here we get all the character in character form.
+
+103
+00:09:06,850 --> 00:09:09,680
+So this is all about the swep guess method.
+
+104
+00:09:09,850 --> 00:09:15,210
+The next method is Mxs method Mxs method will do don't you.
+
+105
+00:09:15,220 --> 00:09:20,750
+The maximum is a drink actor in the collection of character to be considered the stream.
+
+106
+00:09:21,030 --> 00:09:23,630
+So for that equal to
+
+107
+00:09:26,440 --> 00:09:30,570
+Hello World.
+
+108
+00:09:30,710 --> 00:09:40,240
+Now I'm going to exit the next get it to X and so heavy get the result that gives the largest character
+
+109
+00:09:40,300 --> 00:09:42,440
+in this string.
+
+110
+00:09:42,760 --> 00:09:46,060
+So this is all about the next guy.
+
+111
+00:09:46,270 --> 00:09:47,120
+Excellent.
+
+112
+00:09:47,350 --> 00:09:49,950
+I didn't say that Mxs method.
+
+113
+00:09:50,150 --> 00:09:52,360
+The next method is a min method.
+
+114
+00:09:52,520 --> 00:09:58,380
+When method is used to get a minimum correct value in say the string.
+
+115
+00:09:58,490 --> 00:10:01,430
+So for that I'm going to give some.
+
+116
+00:10:01,500 --> 00:10:08,570
+Doing well which is by 10 and I'm going to print them minimum leverage and Min.
+
+117
+00:10:08,710 --> 00:10:10,400
+So here we get the desired edge.
+
+118
+00:10:10,610 --> 00:10:13,630
+So the minimum character insert this is doing.
+
+119
+00:10:13,630 --> 00:10:20,800
+So these are all about the min method the last method is the placement third placement third this in
+
+120
+00:10:20,800 --> 00:10:21,130
+blue.
+
+121
+00:10:21,130 --> 00:10:27,010
+He plays that character and he's really greater screen named by them.
+
+122
+00:10:28,170 --> 00:10:33,780
+Now I'm going to replace the Python for you don't
+
+123
+00:10:36,680 --> 00:10:40,230
+please and we've got a place to be today.
+
+124
+00:10:40,280 --> 00:10:45,840
+So the b's the on list character of a new.
+
+125
+00:10:45,870 --> 00:10:51,690
+And does the new value have a word that is a limit to the Zayton.
+
+126
+00:10:51,730 --> 00:10:56,050
+Which means that B is the best way to read it.
+
+127
+00:10:56,210 --> 00:10:57,630
+The best way.
+
+128
+00:10:58,150 --> 00:11:00,900
+So it is all about the history.
+
+129
+00:11:01,150 --> 00:11:01,780
+In Python.
+

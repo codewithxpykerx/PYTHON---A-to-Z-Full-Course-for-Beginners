@@ -1,0 +1,136 @@
+1
+00:00:00,090 --> 00:00:03,270
+Lead and turn into combative you know because.
+
+2
+00:00:03,540 --> 00:00:10,140
+So what I combatted you know this comparison operators are used to compare the values on both sides
+
+3
+00:00:10,140 --> 00:00:11,690
+of it.
+
+4
+00:00:11,730 --> 00:00:14,270
+They are also less relational operators.
+
+5
+00:00:14,760 --> 00:00:15,970
+So some of the combat.
+
+6
+00:00:16,000 --> 00:00:22,410
+I mean the come down Bajan operators are greater than Lizanne does not equal to less than or equal to
+
+7
+00:00:22,560 --> 00:00:28,710
+equal to not equal to and not equal to going out of business and can also build in the dungeon symbol
+
+8
+00:00:29,300 --> 00:00:30,670
+monocoque.
+
+9
+00:00:31,950 --> 00:00:34,730
+Let's see an example for this.
+
+10
+00:00:40,180 --> 00:00:52,850
+Easy code 9 to be easy could create looks initially first check and credit that vector is greater than
+
+11
+00:00:53,220 --> 00:00:56,590
+should be true of course 9 is going to end yet.
+
+12
+00:00:56,630 --> 00:01:07,160
+And also Giclas that is less than be false of course is greater than I mean B and less than 9 and hence
+
+13
+00:01:07,160 --> 00:01:07,980
+is false.
+
+14
+00:01:09,580 --> 00:01:14,950
+Now let's say that equal to it is better than or equal to
+
+15
+00:01:17,980 --> 00:01:19,800
+B.
+
+16
+00:01:19,840 --> 00:01:20,480
+I'm sorry.
+
+17
+00:01:20,530 --> 00:01:25,280
+We should we should but we shouldn't give any space between those operators.
+
+18
+00:01:25,510 --> 00:01:27,860
+Yes.
+
+19
+00:01:28,900 --> 00:01:30,130
+Listen Michael to me.
+
+20
+00:01:30,190 --> 00:01:31,600
+Of course it is false.
+
+21
+00:01:31,990 --> 00:01:33,560
+And we're losing money on it.
+
+22
+00:01:34,150 --> 00:01:36,540
+Equal to whether one is equal eight.
+
+23
+00:01:36,540 --> 00:01:37,260
+Was that true.
+
+24
+00:01:37,330 --> 00:01:37,880
+Let's go
+
+25
+00:01:41,520 --> 00:01:42,120
+to please.
+
+26
+00:01:42,160 --> 00:01:43,540
+Azo here.
+
+27
+00:01:44,140 --> 00:01:51,290
+If you single people do then we are then it indicates that we are assigning a value to anybody.
+
+28
+00:01:51,370 --> 00:01:57,460
+But if you use double equal do it means that we are checking the value of both variables here.
+
+29
+00:01:57,880 --> 00:01:59,620
+OK so next.
+
+30
+00:01:59,620 --> 00:02:07,400
+Not equal to the is not equal to the two of course it is true.
+
+31
+00:02:07,540 --> 00:02:14,110
+Nine is not equal galiot and not equal to has two symbols.
+
+32
+00:02:14,110 --> 00:02:18,880
+I mean this one and and another one.
+
+33
+00:02:19,060 --> 00:02:22,990
+Let's also check with that.
+
+34
+00:02:23,200 --> 00:02:26,140
+Yes of course it's true.
+

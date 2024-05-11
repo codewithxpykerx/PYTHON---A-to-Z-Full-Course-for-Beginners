@@ -1,0 +1,488 @@
+1
+00:00:01,290 --> 00:00:09,310
+Welcome to buy them to do today we are going to talk about numbers in Brighton.
+
+2
+00:00:09,390 --> 00:00:19,470
+Now my is in big debt I live in Brighton which is used to store a numeric value which means that number
+
+3
+00:00:20,130 --> 00:00:25,440
+always used to store up in desirable not to string values.
+
+4
+00:00:25,440 --> 00:00:28,510
+So this is all about numbers in Python.
+
+5
+00:00:28,530 --> 00:00:31,770
+Now let us understand through a simple example.
+
+6
+00:00:32,900 --> 00:00:42,140
+Here I will bring up my pencil and now I'm going is a good example of number how you can say I assigned
+
+7
+00:00:42,150 --> 00:00:45,040
+a numeric value in a variable.
+
+8
+00:00:45,280 --> 00:00:47,960
+Now do this again isn't it.
+
+9
+00:00:47,970 --> 00:00:52,060
+Which means that the variable is stored the numeric value.
+
+10
+00:00:52,170 --> 00:00:54,380
+So this is the example of numbers.
+
+11
+00:00:54,820 --> 00:01:05,010
+And now as we know that by support for different numeric type which is indeed a long integer flawed
+
+12
+00:01:05,370 --> 00:01:07,160
+and complex.
+
+13
+00:01:07,170 --> 00:01:10,610
+So you already know in the long and bitter.
+
+14
+00:01:10,770 --> 00:01:13,390
+I'm going to explain you flawed and complex.
+
+15
+00:01:13,630 --> 00:01:19,560
+Now for float equal to seventeen point six.
+
+16
+00:01:19,920 --> 00:01:20,610
+This is a float.
+
+17
+00:01:20,610 --> 00:01:23,260
+Welcome to Q&amp;A.
+
+18
+00:01:23,520 --> 00:01:28,180
+Having good results and in 1:06 which means that they're very well Istana.
+
+19
+00:01:28,460 --> 00:01:41,310
+Well Lou now for complex values equal to the helpless 45 which means that really the deal part and a
+
+20
+00:01:41,310 --> 00:01:42,680
+45 is a million.
+
+21
+00:01:42,720 --> 00:01:50,790
+But again my goodness we get our complex Velu which means that you'd automatically store the new value
+
+22
+00:01:50,880 --> 00:01:52,600
+which is a complex value.
+
+23
+00:01:52,950 --> 00:01:55,610
+So it is all about to buy 10.
+
+24
+00:01:56,850 --> 00:02:03,270
+Now I'm going to spin you some method which is used in numbers.
+
+25
+00:02:03,590 --> 00:02:08,760
+Now the first method is absolute method which is s method.
+
+26
+00:02:08,780 --> 00:02:14,110
+Now for that simply that is a good absolute method.
+
+27
+00:02:14,220 --> 00:02:19,980
+When I get a variable and giving them a loan minus Well it is a negative value.
+
+28
+00:02:19,980 --> 00:02:30,060
+Now when I bring this value with absolute method to ABS and to help me get the absolute 12 it is a positive
+
+29
+00:02:30,240 --> 00:02:31,390
+in the value.
+
+30
+00:02:31,590 --> 00:02:34,260
+So these is all about the absolute value.
+
+31
+00:02:34,260 --> 00:02:44,650
+The next method is the sealing method which is denoted by c i l this function are not accessible directly.
+
+32
+00:02:44,790 --> 00:02:49,510
+So we need to import more Mondial called a method model.
+
+33
+00:02:49,800 --> 00:02:55,070
+Initially I'm going to import a model which isn't Mathman do.
+
+34
+00:02:55,390 --> 00:02:58,240
+Now I'm going to execute a program.
+
+35
+00:02:58,260 --> 00:03:02,260
+After that I'll explain you what is the scene method.
+
+36
+00:03:02,820 --> 00:03:05,130
+So now initially giving of a little.
+
+37
+00:03:05,180 --> 00:03:07,240
+One two three.
+
+38
+00:03:08,250 --> 00:03:13,050
+And now I'm going to print is Velu using Mathman do it.
+
+39
+00:03:13,130 --> 00:03:19,940
+I call her my model.
+
+40
+00:03:20,240 --> 00:03:27,420
+So here we get the result Hardeen which means that Silma thirds are always stored the smallest and zero
+
+41
+00:03:27,460 --> 00:03:29,300
+value which is good at that.
+
+42
+00:03:29,310 --> 00:03:32,380
+And then the reference reference will do.
+
+43
+00:03:32,570 --> 00:03:37,020
+So it is the smallest and is a value greater than the reference value.
+
+44
+00:03:37,130 --> 00:03:44,430
+I think today is the smallest and is of value after the twelve point three to three.
+
+45
+00:03:44,600 --> 00:03:52,370
+It will not give you the floor well it will always give you the invisible or we can say that C are used
+
+46
+00:03:52,370 --> 00:03:55,320
+to start the next value.
+
+47
+00:03:55,550 --> 00:03:57,540
+So whatever else you have you get.
+
+48
+00:03:57,590 --> 00:04:01,080
+You had given Google Print 2 4 2 3 9 8.
+
+49
+00:04:01,090 --> 00:04:04,630
+Anything it would simply give you the next in.
+
+50
+00:04:04,850 --> 00:04:07,930
+So this is that Hardeen in the next indiscernible.
+
+51
+00:04:08,470 --> 00:04:10,650
+So now this is all about the cell method.
+
+52
+00:04:12,110 --> 00:04:17,720
+The next 23rd is the floor my third floor My third is just similar to the Silma third.
+
+53
+00:04:17,960 --> 00:04:20,630
+So initially we have to import our model Matt
+
+54
+00:04:23,470 --> 00:04:23,770
+here.
+
+55
+00:04:23,780 --> 00:04:25,760
+I'm going to execute a program.
+
+56
+00:04:25,790 --> 00:04:27,320
+After that I'll explain you
+
+57
+00:04:31,220 --> 00:04:43,280
+equal to twelve point two three and now I'm going to call this my third.
+
+58
+00:04:43,280 --> 00:04:44,340
+So here we get the results.
+
+59
+00:04:44,360 --> 00:04:52,230
+Well so which means third floor are used to that the largest in deserve no less than the reference vendor.
+
+60
+00:04:52,250 --> 00:04:58,060
+So which is the largest and is of value is not greater than this reference value.
+
+61
+00:04:58,190 --> 00:05:02,980
+So I think well is the largest And is it a venue or we considered flawed.
+
+62
+00:05:03,020 --> 00:05:09,130
+Are used to get our previous in these Ravello as the reference value.
+
+63
+00:05:09,410 --> 00:05:14,370
+So the previous indiscernible knew then the reference values the Gwen.
+
+64
+00:05:14,390 --> 00:05:22,210
+So if you put padding point three four fourteen point four we will get the previous interior below which
+
+65
+00:05:22,220 --> 00:05:24,380
+is 13 or 14.
+
+66
+00:05:24,650 --> 00:05:28,250
+So these are all about the floor method.
+
+67
+00:05:28,250 --> 00:05:36,170
+The next method is exponential method exponential method is just similar to the math exponential method.
+
+68
+00:05:36,530 --> 00:05:40,450
+So these methods are not accessible directly.
+
+69
+00:05:40,460 --> 00:05:42,960
+So we need to import my math model
+
+70
+00:05:46,640 --> 00:05:47,050
+here.
+
+71
+00:05:47,070 --> 00:06:00,420
+I boarded a math model and now I'm going to simply print our exponential value of two.
+
+72
+00:06:01,050 --> 00:06:02,250
+So here we get the result.
+
+73
+00:06:02,320 --> 00:06:04,740
+Seven point thirty eight.
+
+74
+00:06:04,780 --> 00:06:08,590
+So this is all about the exponential method.
+
+75
+00:06:09,310 --> 00:06:15,260
+The next method is a maximum of 10 denoted by a x.
+
+76
+00:06:15,340 --> 00:06:19,930
+So for that we don't need to import a math model.
+
+77
+00:06:19,930 --> 00:06:24,940
+We can access directly so equal to max
+
+78
+00:06:27,550 --> 00:06:32,130
+45 and 2.
+
+79
+00:06:35,330 --> 00:06:38,950
+Parent of a new.
+
+80
+00:06:39,460 --> 00:06:41,770
+So here we get the desired 45.
+
+81
+00:06:42,070 --> 00:06:46,270
+So 45 is the maximum in this list of item.
+
+82
+00:06:46,270 --> 00:06:48,250
+So this all about the Maxima entered.
+
+83
+00:06:48,310 --> 00:06:58,160
+The next method is the min method and be considered a minimum method for that equal to m i n.
+
+84
+00:06:58,640 --> 00:06:58,860
+Right.
+
+85
+00:06:58,870 --> 00:07:00,950
+And Jim you were in the same variable
+
+86
+00:07:06,490 --> 00:07:08,850
+I mean print.
+
+87
+00:07:09,840 --> 00:07:10,720
+Really.
+
+88
+00:07:10,870 --> 00:07:14,780
+So here we get the minimum value which is too.
+
+89
+00:07:15,070 --> 00:07:17,780
+So it is all about the minimum method.
+
+90
+00:07:18,190 --> 00:07:21,850
+The next method is the power method the power method.
+
+91
+00:07:21,850 --> 00:07:28,030
+It is similar to the mathematics method which means there are two to the poultry two to about four.
+
+92
+00:07:28,240 --> 00:07:38,070
+What they were really good about it was simply give the lizard for that and would simply exit the bar
+
+93
+00:07:38,070 --> 00:07:40,540
+method.
+
+94
+00:07:40,660 --> 00:07:47,660
+So first we have to import a math model because these methods are not accessible directly.
+
+95
+00:07:47,700 --> 00:07:58,930
+Now I'm going to print Velu B or W and now two former three hit trees the power of this it offends Velu
+
+96
+00:07:59,170 --> 00:08:01,490
+so any heavy get the result.
+
+97
+00:08:01,620 --> 00:08:08,450
+Which means that dude with about three is eight which is due to the power three is it.
+
+98
+00:08:08,590 --> 00:08:11,650
+So these is all about the power method.
+
+99
+00:08:12,010 --> 00:08:19,720
+The next time a third is A-squared mentored A-squared method it does similar to the Met A-squared.
+
+100
+00:08:20,020 --> 00:08:31,090
+So for that we have to first import Ahmadullah Matt and now I'm actually going to print spreaded real
+
+101
+00:08:31,860 --> 00:08:34,540
+math Dorte Eskew.
+
+102
+00:08:36,250 --> 00:08:37,380
+Hundred.
+
+103
+00:08:38,020 --> 00:08:43,570
+So we get the deserts and this kind of squared up hundred is simpler then.
+
+104
+00:08:43,720 --> 00:08:46,510
+So there's almost a square root method.
+
+105
+00:08:46,780 --> 00:08:49,760
+The next method is a mod method.
+
+106
+00:08:49,960 --> 00:08:57,820
+More death method is used to get in zero value apart under floatable really do our part which means
+
+107
+00:08:57,820 --> 00:09:02,030
+that you'll get the sceptered value of that and the float.
+
+108
+00:09:02,290 --> 00:09:08,780
+So now fussily and we import Ahmadullah meant and now England execute the program.
+
+109
+00:09:08,800 --> 00:09:10,260
+After that explain you
+
+110
+00:09:14,500 --> 00:09:19,010
+mean f and giving of a lapel pin 9 0.
+
+111
+00:09:19,230 --> 00:09:20,720
+So we get that Izard here.
+
+112
+00:09:20,730 --> 00:09:28,180
+This is a flawed part of this reference Lewton which is gulper 9:0 and this is a robot which is a.
+
+113
+00:09:28,620 --> 00:09:34,880
+So what math more deft does it will separate the Indie's revenue and the floor.
+
+114
+00:09:34,890 --> 00:09:37,160
+Well Lou in different parts.
+
+115
+00:09:37,290 --> 00:09:45,250
+So this is all about the mod f method the last method is the logger method not method really don't need
+
+116
+00:09:45,270 --> 00:09:48,970
+to logarithmic Melu are the best value.
+
+117
+00:09:48,990 --> 00:09:52,550
+So for that we have to import a model.
+
+118
+00:09:52,850 --> 00:10:02,090
+And I'm going to simply execute our lock and value we'll do metadata log and hit plan.
+
+119
+00:10:02,250 --> 00:10:04,110
+And the base is also 10.
+
+120
+00:10:04,170 --> 00:10:06,460
+And is the base.
+
+121
+00:10:06,540 --> 00:10:08,280
+So here we get the result 1.
+
+122
+00:10:08,310 --> 00:10:14,970
+So we know that locked down is the one that is all about number in Brighton.
+

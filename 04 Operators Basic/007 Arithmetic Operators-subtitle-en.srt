@@ -1,0 +1,288 @@
+1
+00:00:05,500 --> 00:00:08,930
+First of four wheel drive alone learn Dometic overtake us.
+
+2
+00:00:09,070 --> 00:00:15,670
+So what are the operators and the medical operators are used to both from domestic operations like addition
+
+3
+00:00:15,670 --> 00:00:20,170
+subtraction multiplication division modulus Xplornet.
+
+4
+00:00:20,410 --> 00:00:24,760
+So let's begin to integrate anti-GPL from some examples.
+
+5
+00:00:24,790 --> 00:00:25,930
+Let's open them to bigger
+
+6
+00:00:30,540 --> 00:00:33,760
+worked like that.
+
+7
+00:00:33,780 --> 00:00:34,100
+All right.
+
+8
+00:00:34,110 --> 00:00:36,240
+So we are going to repeat or not.
+
+9
+00:00:36,420 --> 00:00:42,560
+So instead of this python interpreter Let's enter to interact by the interpreter.
+
+10
+00:00:42,570 --> 00:00:52,460
+So our indirect indirectly by the interpreter and interpreter are seen by indirect do in the middle
+
+11
+00:00:52,470 --> 00:00:56,250
+is nothing but a normal bike that in the corridor with Stylites on it.
+
+12
+00:00:56,280 --> 00:01:03,900
+I mean it has the various new functionalities and attributes except rest of the user base for a minute.
+
+13
+00:01:03,900 --> 00:01:07,050
+So let's end when do interactive by an interpreter.
+
+14
+00:01:07,590 --> 00:01:12,690
+Basically for non-bird don't really really build realtime just by them.
+
+15
+00:01:15,250 --> 00:01:21,920
+But in a body in case of fire indirect to individuals we need to use AI AI before it might work.
+
+16
+00:01:22,010 --> 00:01:24,740
+So this is nothing but interactive fiction.
+
+17
+00:01:24,740 --> 00:01:33,500
+All right so we are into or biting into a bit and let us know what the operators are trying to declared
+
+18
+00:01:33,550 --> 00:01:39,050
+to values with some are by assigning values to it.
+
+19
+00:01:39,050 --> 00:01:42,410
+I mean I could get two variables by assigning some ballastic
+
+20
+00:01:46,740 --> 00:01:47,650
+equal nine
+
+21
+00:01:50,350 --> 00:01:55,180
+Beag equal to yet both from
+
+22
+00:01:57,940 --> 00:01:58,770
+Asian point
+
+23
+00:02:05,230 --> 00:02:06,380
+B.
+
+24
+00:02:07,090 --> 00:02:07,830
+So that's.
+
+25
+00:02:07,960 --> 00:02:15,760
+That's imply that apart from Elisha and in Dubai too when we are using just the word print in order
+
+26
+00:02:15,760 --> 00:02:17,960
+to bring the value of a variable.
+
+27
+00:02:17,980 --> 00:02:25,730
+But in case of bidon to point Armon byte entry we need to use this statement as a function.
+
+28
+00:02:25,750 --> 00:02:33,230
+I mean Bing has been converted into function by the Dupont's like roundoff Glaspie.
+
+29
+00:02:34,220 --> 00:02:44,650
+When God bless b c so you've been able to print the value of a variable and do this by using print as
+
+30
+00:02:44,650 --> 00:02:48,090
+a statement and print as a function.
+
+31
+00:02:48,100 --> 00:02:49,030
+All right.
+
+32
+00:02:49,030 --> 00:02:52,650
+So let's also know let's move on some.
+
+33
+00:02:52,950 --> 00:02:53,430
+Ms.
+
+34
+00:02:53,660 --> 00:02:54,360
+Substraction
+
+35
+00:02:57,070 --> 00:02:58,680
+sorry.
+
+36
+00:02:59,380 --> 00:03:00,040
+B.
+
+37
+00:03:00,230 --> 00:03:00,820
+That's it.
+
+38
+00:03:00,820 --> 00:03:04,850
+Nine minutes is equal to one and as a multiplication.
+
+39
+00:03:05,560 --> 00:03:07,310
+Let's take some of them.
+
+40
+00:03:07,480 --> 00:03:10,440
+I mean values by creating some different variants
+
+41
+00:03:16,120 --> 00:03:16,990
+in Python.
+
+42
+00:03:18,390 --> 00:03:27,230
+You can buffer multiplication by using an operator stack.
+
+43
+00:03:27,390 --> 00:03:29,490
+So this was awkward.
+
+44
+00:03:30,080 --> 00:03:30,970
+Now
+
+45
+00:03:35,490 --> 00:03:36,570
+let's get to this division
+
+46
+00:03:42,560 --> 00:03:45,080
+what so are many.
+
+47
+00:03:45,360 --> 00:03:52,330
+When we divided the divide into Yea by B I mean 4 by 3 million the value is 1.
+
+48
+00:03:53,330 --> 00:03:55,550
+And the next one was Margulis.
+
+49
+00:03:55,820 --> 00:04:01,480
+So Words mean more to us madrassas is nothing but a reminder of the division operation.
+
+50
+00:04:01,850 --> 00:04:09,830
+For example the Colt 45 Yeezy called Six.
+
+51
+00:04:10,550 --> 00:04:14,520
+And when you type in modulus B.
+
+52
+00:04:14,810 --> 00:04:17,570
+So the output should be three.
+
+53
+00:04:17,590 --> 00:04:29,090
+So we got down to the street when we divided 45 by 6 we mean the actual question was 6 sevens 42 and
+
+54
+00:04:29,090 --> 00:04:30,080
+the remainder was three.
+
+55
+00:04:30,080 --> 00:04:33,050
+So that was their actual output.
+
+56
+00:04:33,050 --> 00:04:39,480
+If you don't understand that I show you.
+
+57
+00:04:39,550 --> 00:04:43,940
+Six forty five.
+
+58
+00:04:44,080 --> 00:04:56,020
+So so in Division of General mathematics if you divide it 45 by six I mean the value should be 7 6 7
+
+59
+00:04:56,050 --> 00:04:56,730
+42.
+
+60
+00:05:01,590 --> 00:05:03,160
+And that reminder should be easy.
+
+61
+00:05:03,360 --> 00:05:06,830
+So this was an actual non-idiots you
+
+62
+00:05:09,920 --> 00:05:11,260
+know exponent.
+
+63
+00:05:11,780 --> 00:05:15,890
+So what is in my experience exponent is nothing but extra for a.
+
+64
+00:05:17,570 --> 00:05:20,770
+Let's also try to give an example for this.
+
+65
+00:05:21,260 --> 00:05:25,270
+Let's take easy calls for an easy called 3.
+
+66
+00:05:25,620 --> 00:05:28,870
+So I can cite for that.
+
+67
+00:05:29,420 --> 00:05:33,540
+Easy for me is equal to three.
+
+68
+00:05:33,560 --> 00:05:44,140
+So how you implement the exponent functionality in PI that simple did that was that B why we declared
+
+69
+00:05:44,140 --> 00:05:47,970
+B's call for B must be 3 OK whatever.
+
+70
+00:05:48,160 --> 00:05:51,390
+44 or 4 is nothing but Duvel 6.
+
+71
+00:05:51,560 --> 00:06:00,790
+So this is equal to fall into four into four four.
+
+72
+00:06:00,800 --> 00:06:08,400
+So this was the actual processing behind the exponent functionality.
+

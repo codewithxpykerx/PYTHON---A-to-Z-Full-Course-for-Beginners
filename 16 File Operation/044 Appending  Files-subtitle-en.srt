@@ -1,0 +1,80 @@
+1
+00:00:00,660 --> 00:00:06,250
+In this video we are going to learn how to open data in our existing files.
+
+2
+00:00:06,590 --> 00:00:15,080
+So while we use append instead of right when we use the Mukhlas or we can say w for writing the data
+
+3
+00:00:15,740 --> 00:00:18,190
+then the existent would have been deleted.
+
+4
+00:00:18,310 --> 00:00:26,990
+Then we create a new data but then we use the mode then the new data is added after the existing data.
+
+5
+00:00:27,260 --> 00:00:36,410
+So here we already have something you know quite extreme which is I'm from bison and I'm going to append
+
+6
+00:00:36,410 --> 00:00:49,690
+some data using email which is and now just and just to see does more do or more new here.
+
+7
+00:00:49,740 --> 00:00:56,980
+I'm going to search something with just chrome Indio.
+
+8
+00:00:57,470 --> 00:01:05,610
+Just click onto my Kirchner to get the text for just right under DXi.
+
+9
+00:01:05,890 --> 00:01:08,160
+Here you can see there is another.
+
+10
+00:01:08,270 --> 00:01:08,800
+Did I just.
+
+11
+00:01:08,810 --> 00:01:15,710
+I'm from India which is rendered after the existing data which is I'm from python.
+
+12
+00:01:16,110 --> 00:01:18,940
+And now when me use w here
+
+13
+00:01:22,680 --> 00:01:27,320
+just to run this morning you are going wrote something.
+
+14
+00:01:27,600 --> 00:01:28,280
+Hello world.
+
+15
+00:01:30,870 --> 00:01:34,620
+Just clicked into the file which is why it's under 60
+
+16
+00:01:37,350 --> 00:01:42,860
+so you can see a new do they generated and exit Sundari deleted.
+
+17
+00:01:42,870 --> 00:01:48,410
+That's why we don't use w I think some data we always use our print.
+
+18
+00:01:48,660 --> 00:01:55,290
+I do indeed because deathblow will delete the existing data and it will create a new reader but when
+
+19
+00:01:55,290 --> 00:02:00,790
+we use append mode then the new the devil added after the existing data.
+
+20
+00:02:01,230 --> 00:02:06,390
+So this is the way to add some data on the now file using byte script.
+

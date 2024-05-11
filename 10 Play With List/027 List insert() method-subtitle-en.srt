@@ -1,0 +1,68 @@
+1
+00:00:03,890 --> 00:00:11,360
+That next My third is in sort my third inserted my third is just similar to the comprendo my third.
+
+2
+00:00:11,360 --> 00:00:18,400
+But the main difference is that he inserted the inserted my third we can give her an expedition of the
+
+3
+00:00:18,440 --> 00:00:25,690
+I don't what we can say there where we want to add the item inside the existing list.
+
+4
+00:00:25,700 --> 00:00:30,490
+So now I'm going to create a list which is the same list.
+
+5
+00:00:30,560 --> 00:00:33,410
+So here we have some item in the list.
+
+6
+00:00:33,800 --> 00:00:37,010
+And now I'm going to insert some item here.
+
+7
+00:00:37,230 --> 00:00:40,880
+So it i then the odd insert.
+
+8
+00:00:41,090 --> 00:00:46,150
+For now I need to put the index value so the inexpensive too.
+
+9
+00:00:46,260 --> 00:00:49,170
+I want to add some item.
+
+10
+00:00:49,340 --> 00:00:49,790
+So here.
+
+11
+00:00:49,850 --> 00:00:50,540
+Hello.
+
+12
+00:00:50,720 --> 00:01:00,820
+And now I'm going to print the updated Velu which is the heavy get that reason the updated.
+
+13
+00:01:00,910 --> 00:01:01,870
+Harry can see.
+
+14
+00:01:02,060 --> 00:01:03,410
+Hello he said.
+
+15
+00:01:03,470 --> 00:01:04,570
+Inexpertly shut up.
+
+16
+00:01:05,570 --> 00:01:11,150
+Through and that the three is shifted to the next mission of three.
+
+17
+00:01:11,180 --> 00:01:13,220
+So this all about start my third.
+

@@ -1,0 +1,168 @@
+1
+00:00:00,810 --> 00:00:08,320
+Welcome to the I think tutorial today we are going to learn how to send email by using Python script.
+
+2
+00:00:08,340 --> 00:00:12,670
+So here I just opened up my script and when I create a simple program.
+
+3
+00:00:12,990 --> 00:00:17,410
+So first we have to import our library which is as I'm typing library.
+
+4
+00:00:17,560 --> 00:00:25,560
+I seem to be striving for simple made tons of protocol which means that some type is used to send an
+
+5
+00:00:25,560 --> 00:00:33,810
+email to the mail server and days of pop which is most of his protocol and receivers server which is
+
+6
+00:00:33,810 --> 00:00:35,810
+used to receive the mail.
+
+7
+00:00:36,010 --> 00:00:47,020
+So now let's import the some to Libet images and then we'll be able maybe after that get to read the
+
+8
+00:00:47,020 --> 00:00:47,850
+content.
+
+9
+00:00:49,300 --> 00:00:53,050
+So he used a radio which is contained You can write anything.
+
+10
+00:00:53,450 --> 00:01:06,580
+And now here I just wrote Hello I am from witen and now ask could that be used as some debris library
+
+11
+00:01:07,000 --> 00:01:15,740
+which is maybe equal to Melis a variable you can use anything and simply be maybe Daut capital S.
+
+12
+00:01:15,760 --> 00:01:22,390
+DP You just simple made Tromso portable and insert the bread into his just I.
+
+13
+00:01:22,650 --> 00:01:28,930
+I simply thought gmail dot com.
+
+14
+00:01:28,930 --> 00:01:35,260
+So here we have a free mail server which just some degree that gmail dot com which is from Google.
+
+15
+00:01:35,400 --> 00:01:49,150
+And now when I say some degree Holstrom which is 5:57 and after that I just write me men don't at all
+
+16
+00:01:49,880 --> 00:01:52,580
+and put get into this in the next line.
+
+17
+00:01:52,670 --> 00:01:55,470
+I straight male toward the start
+
+18
+00:02:00,130 --> 00:02:03,520
+DNS.
+
+19
+00:02:04,030 --> 00:02:12,460
+So these are the inbuilt method which we used in Python to send any messages displayed or luggin to
+
+20
+00:02:12,580 --> 00:02:13,680
+lowering the function.
+
+21
+00:02:13,710 --> 00:02:15,910
+We did use to log into our account.
+
+22
+00:02:16,030 --> 00:02:19,010
+So here I just put in my e-mail account which is
+
+23
+00:02:22,470 --> 00:02:29,710
+after that I just put one password and then the next line is to use mail.
+
+24
+00:02:29,710 --> 00:02:32,310
+Don't send mail.
+
+25
+00:02:33,190 --> 00:02:35,720
+Put are all on the function which we are used.
+
+26
+00:02:35,940 --> 00:02:38,170
+So from.
+
+27
+00:02:38,460 --> 00:02:42,230
+So here we put the e-mail address from.
+
+28
+00:02:42,270 --> 00:02:43,760
+So it just might.
+
+29
+00:02:43,810 --> 00:02:44,280
+It does
+
+30
+00:02:51,810 --> 00:02:55,930
+after the fact that I had that e-mail address to do just
+
+31
+00:03:06,630 --> 00:03:07,510
+board.
+
+32
+00:03:07,920 --> 00:03:17,100
+And after that I just put content which is on message and now I just write mail don't close random it
+
+33
+00:03:17,100 --> 00:03:18,020
+is send.
+
+34
+00:03:19,860 --> 00:03:21,430
+And now nexted on this Mordieu
+
+35
+00:03:26,380 --> 00:03:29,080
+or key.
+
+36
+00:03:29,170 --> 00:03:33,180
+We did docket and it means there the man is saying.
+
+37
+00:03:33,290 --> 00:03:37,990
+And now let's work with the to Boucek whether it is sent or not.
+
+38
+00:03:38,090 --> 00:03:50,110
+The sign here by using them 3 3 5 0 3 3 which is what I see what you mean I just put the password.
+
+39
+00:03:50,190 --> 00:03:56,410
+So here because of the way that it is received or not.
+
+40
+00:03:56,420 --> 00:04:05,410
+So here you can see the first message or just click on the sender human and the content which is hello
+
+41
+00:04:05,500 --> 00:04:07,230
+I'm from Brighton.
+
+42
+00:04:07,360 --> 00:04:11,420
+So this is the way to send any message to any e-mail addresses.
+

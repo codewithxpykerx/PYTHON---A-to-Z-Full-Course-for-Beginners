@@ -1,0 +1,188 @@
+1
+00:00:01,010 --> 00:00:11,730
+In this video I'm going to explain some function which I used in Japan the first My third is lenth my
+
+2
+00:00:11,740 --> 00:00:12,600
+third.
+
+3
+00:00:12,800 --> 00:00:21,350
+This method will get the number man inserter especially when you consider it would give you the list
+
+4
+00:00:21,410 --> 00:00:24,960
+of items which exist in the handbook.
+
+5
+00:00:25,150 --> 00:00:28,530
+So we had to pick some example.
+
+6
+00:00:28,680 --> 00:00:32,060
+So I did a couple assigning some I don't.
+
+7
+00:00:32,090 --> 00:00:36,920
+Now I'm going to read to the left on this topic.
+
+8
+00:00:37,170 --> 00:00:41,980
+So here I am using Beldi and the third and I put a
+
+9
+00:00:45,560 --> 00:00:46,530
+right and there's more to
+
+10
+00:00:49,880 --> 00:00:51,310
+it isn't it.
+
+11
+00:00:51,350 --> 00:00:53,160
+Because we have it.
+
+12
+00:00:53,170 --> 00:00:55,310
+I don't intend this.
+
+13
+00:00:55,720 --> 00:01:05,380
+So it is all about the length the next time my code is Max my third Max method don't you.
+
+14
+00:01:05,460 --> 00:01:12,630
+The element will have the max number that we have to create or double.
+
+15
+00:01:12,640 --> 00:01:25,730
+So here I it a couple I see some item and now I'm going to print some new way I use max method.
+
+16
+00:01:25,840 --> 00:01:27,100
+Hey I think it's going to do
+
+17
+00:01:30,250 --> 00:01:30,810
+heavy good.
+
+18
+00:01:30,810 --> 00:01:40,150
+The reason for the pain because in this double the I don't fuku bit I have done this badly.
+
+19
+00:01:40,450 --> 00:01:43,020
+So these is all about the max my target.
+
+20
+00:01:43,340 --> 00:01:51,900
+So then next my third minute third minute third just similar to the max method but it will simply be
+
+21
+00:01:51,900 --> 00:01:52,740
+done.
+
+22
+00:01:52,740 --> 00:01:57,020
+The minimum value from the top for that.
+
+23
+00:01:57,300 --> 00:01:59,340
+Could I use my method.
+
+24
+00:01:59,460 --> 00:01:59,830
+Am I.
+
+25
+00:01:59,900 --> 00:02:12,650
+And had I done this more do Brigade-Major 34 because petfood is just consider this double is all about
+
+26
+00:02:12,700 --> 00:02:21,030
+the min my current the last my third is how to convert the copper to the next.
+
+27
+00:02:21,030 --> 00:02:24,480
+Or you can say how to convert the list into equal.
+
+28
+00:02:24,490 --> 00:02:30,610
+So first we're going to convert the items to list data.
+
+29
+00:02:30,690 --> 00:02:33,630
+So here I created a double.
+
+30
+00:02:33,770 --> 00:02:36,230
+We have some item in and this double.
+
+31
+00:02:36,300 --> 00:02:41,050
+Now I'm going to go into the list.
+
+32
+00:02:41,120 --> 00:02:43,260
+They get them it will be.
+
+33
+00:02:43,330 --> 00:02:46,910
+And now I want to use list here.
+
+34
+00:02:46,960 --> 00:02:52,290
+I will say that is this variable pay it either double.
+
+35
+00:02:52,380 --> 00:03:06,310
+No I'm going to simply create the variable b k bigger an so here we see the items are enclosed in quite
+
+36
+00:03:06,340 --> 00:03:10,760
+a big card which means that these are the list item.
+
+37
+00:03:11,020 --> 00:03:15,460
+And now we can order item from list to open.
+
+38
+00:03:15,550 --> 00:03:18,590
+So first we have to create a list.
+
+39
+00:03:18,980 --> 00:03:22,110
+Here we have some item in the list.
+
+40
+00:03:22,270 --> 00:03:27,320
+And now I'm going to convert into the number I used.
+
+41
+00:03:27,460 --> 00:03:30,000
+I and that that it wouldn't be.
+
+42
+00:03:30,050 --> 00:03:36,600
+And now I'm going to use my third You B and B and I put in.
+
+43
+00:03:36,700 --> 00:03:38,060
+Which is a mistake.
+
+44
+00:03:38,380 --> 00:03:43,300
+Now I'm going to simply print it with B.
+
+45
+00:03:45,340 --> 00:03:50,880
+Harrigan these are the all items I enclosed within a band and this is.
+
+46
+00:03:50,880 --> 00:03:55,150
+Which means that these items are double items.
+
+47
+00:03:55,150 --> 00:03:58,740
+This is all about the double in white.
+

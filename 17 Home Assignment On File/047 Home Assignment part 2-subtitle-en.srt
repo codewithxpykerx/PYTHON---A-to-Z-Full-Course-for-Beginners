@@ -1,0 +1,252 @@
+1
+00:00:00,400 --> 00:00:08,760
+Hi everyone let's get started in the last two Duryea we have done and agreement I mean that we have
+
+2
+00:00:08,760 --> 00:00:14,300
+used some built in functions like isip and Ostap here.
+
+3
+00:00:14,610 --> 00:00:19,090
+So you might be wondering or is the focus of all these functions here.
+
+4
+00:00:19,410 --> 00:00:24,000
+So let's do have a look at each one of them deeply.
+
+5
+00:00:24,060 --> 00:00:32,940
+So let's start with the C functions here and in order to use all these functions we have to import that
+
+6
+00:00:33,710 --> 00:00:41,270
+isip from you to do things like here and the function returns.
+
+7
+00:00:41,560 --> 00:00:46,070
+I list two books were I to on.
+
+8
+00:00:46,260 --> 00:00:54,630
+The element from each of the argument sequences or it delivers like if one understood here and that
+
+9
+00:00:54,630 --> 00:01:03,030
+is done listee strangulated in length of the length of show argument sequence and when there are multiple
+
+10
+00:01:03,030 --> 00:01:05,770
+arguments which are all of the same length.
+
+11
+00:01:06,030 --> 00:01:14,820
+This function is similar to the map function with any argument of note and with a single Siku an argument
+
+12
+00:01:15,340 --> 00:01:20,980
+it will return a list of one tuple and with no argument it will return an empty list.
+
+13
+00:01:21,000 --> 00:01:22,590
+So keep that in mind.
+
+14
+00:01:23,280 --> 00:01:30,690
+And those on the left to right evaluation order of the boots get guaranteed.
+
+15
+00:01:30,720 --> 00:01:33,940
+So let's have a look at another example.
+
+16
+00:01:35,010 --> 00:01:46,440
+Here we have this x and y having same length and we have C with the C function here like this.
+
+17
+00:01:46,530 --> 00:01:56,740
+This is its index and equal to done first value of false list called My First values second list Colma
+
+18
+00:01:57,970 --> 00:02:00,160
+second value first list.
+
+19
+00:02:00,190 --> 00:02:01,620
+My second rule of second is.
+
+20
+00:02:01,660 --> 00:02:11,460
+And so on and the set in conjunction with this Tottle Braider like here can be used to and simple list
+
+21
+00:02:11,880 --> 00:02:14,950
+like the second line.
+
+22
+00:02:15,270 --> 00:02:19,650
+The second last line like Q and this book are doing to
+
+23
+00:02:23,240 --> 00:02:28,350
+and no let's do half look good the ice function.
+
+24
+00:02:31,590 --> 00:02:42,540
+The ice function will make an iterator that aggregates elements from each of the if that is like C except
+
+25
+00:02:42,540 --> 00:02:44,900
+that it returns and it do.
+
+26
+00:02:45,390 --> 00:02:46,410
+Instead of list
+
+27
+00:02:49,040 --> 00:02:55,720
+so the left to right evaluation order of the delivers is guaranteed in this fall.
+
+28
+00:02:55,780 --> 00:03:01,290
+So let's have a look at the example here.
+
+29
+00:03:01,490 --> 00:03:05,020
+In this we have a do list.
+
+30
+00:03:05,620 --> 00:03:07,760
+One two three and a b c here.
+
+31
+00:03:08,000 --> 00:03:16,780
+And we are using this ice function here and we are bringing the I then we'll print it like this.
+
+32
+00:03:17,060 --> 00:03:19,430
+Here you can see
+
+33
+00:03:22,280 --> 00:03:26,670
+here we have not having the square brackets.
+
+34
+00:03:28,450 --> 00:03:33,430
+Like in this so that's the difference.
+
+35
+00:03:33,740 --> 00:03:36,580
+And it is not separated by mom.
+
+36
+00:03:36,920 --> 00:03:38,780
+Also like
+
+37
+00:03:43,780 --> 00:03:50,530
+and we have another one which is the largest
+
+38
+00:03:52,970 --> 00:03:56,440
+difference of ice and isip largest.
+
+39
+00:03:56,830 --> 00:04:12,160
+If we are using isip then the ABC and Ex-White will be isip like a x and B Y like this and in the case
+
+40
+00:04:12,160 --> 00:04:25,000
+of iSuppli just it will be like a b c d e x y and we can also supply a food value like minus here and
+
+41
+00:04:25,000 --> 00:04:29,360
+this will be giving us a x y z.
+
+42
+00:04:29,380 --> 00:04:30,110
+Right.
+
+43
+00:04:30,240 --> 00:04:40,610
+See this isip and the fill value is combined with the C and D like C dash and B the like this.
+
+44
+00:04:40,620 --> 00:04:42,810
+So if we are
+
+45
+00:04:45,660 --> 00:04:52,490
+using it then we will not get the C dash dash like here.
+
+46
+00:04:52,530 --> 00:04:58,470
+And we want to play it through value like here.
+
+47
+00:04:59,550 --> 00:05:08,840
+So that's all about I see and I see just now we have another one.
+
+48
+00:05:09,400 --> 00:05:21,470
+The Ostap and the murdered Ostap burns a copy of the string in which all gas has been stripped from
+
+49
+00:05:21,470 --> 00:05:27,660
+the end of the string like a default whitespace characters.
+
+50
+00:05:27,710 --> 00:05:32,450
+So it's you have Fosdick's and we're here we have a species.
+
+51
+00:05:32,570 --> 00:05:44,900
+And before as and after this as we have lot of spaces and after this since we are using Ostap the it
+
+52
+00:05:44,900 --> 00:05:59,310
+will strip the right side of S and we get species like here and easier being a like this then we will
+
+53
+00:05:59,450 --> 00:06:05,080
+get the B D and this is a good strip.
+
+54
+00:06:05,750 --> 00:06:18,100
+And if we are having a B B then it will strip both a B and B and we will get an empty string like this.
+
+55
+00:06:19,820 --> 00:06:24,590
+And in the case of this b c a b b b.
+
+56
+00:06:24,950 --> 00:06:33,160
+If you are slipping a B this food strip this a B and B and B will get ABC on.
+
+57
+00:06:33,500 --> 00:06:41,390
+And we also have Elsje in order stood out from the left side.
+
+58
+00:06:41,630 --> 00:06:48,960
+And if we want to strip some special things in between.
+
+59
+00:06:49,320 --> 00:06:51,310
+So we have.
+
+60
+00:06:52,220 --> 00:06:55,110
+So we can use also.
+
+61
+00:06:55,470 --> 00:07:02,390
+So that's all about strip strip and Strip.
+
+62
+00:07:02,550 --> 00:07:03,640
+So keep watching.
+
+63
+00:07:03,810 --> 00:07:04,180
+Thank you.
+

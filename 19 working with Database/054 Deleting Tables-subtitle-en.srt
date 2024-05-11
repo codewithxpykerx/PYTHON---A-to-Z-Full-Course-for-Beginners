@@ -1,0 +1,112 @@
+1
+00:00:00,960 --> 00:00:07,080
+Welcome to the Python tutorial today we are going to learn how to drop a table or we can say how to
+
+2
+00:00:07,160 --> 00:00:13,040
+keep some values from the table by using my Escuela what went as well as writing a script.
+
+3
+00:00:13,260 --> 00:00:15,880
+So now let's move to the my ethical work bench.
+
+4
+00:00:15,950 --> 00:00:20,040
+So here first we have to use the test which is a database.
+
+5
+00:00:20,100 --> 00:00:29,390
+So here I just would come on enter and now I'm going to see how many values are there in my database.
+
+6
+00:00:29,410 --> 00:00:34,990
+So here we are selecting store from in LA.
+
+7
+00:00:35,170 --> 00:00:37,460
+So employees are able to hit enter.
+
+8
+00:00:37,480 --> 00:00:42,870
+So here we have two values or because of two rows which is elex and Peter and having everyone in two
+
+9
+00:00:43,400 --> 00:00:54,580
+and now I'm going to lead one to by using our delete key word BP and the delete from name of the table
+
+10
+00:00:54,580 --> 00:01:03,020
+which is employ after that and straight to we're I will do one.
+
+11
+00:01:03,050 --> 00:01:08,070
+So here I use equal to one because ideas are unique for all the rows.
+
+12
+00:01:08,080 --> 00:01:10,400
+So after that hit command enter.
+
+13
+00:01:10,660 --> 00:01:13,920
+So now when I check whether it is affected or not
+
+14
+00:01:16,510 --> 00:01:21,030
+from the no employee just click command enter.
+
+15
+00:01:21,220 --> 00:01:24,200
+So you can see the ID when it is deleted.
+
+16
+00:01:24,340 --> 00:01:27,690
+Which means that the first row is deleted.
+
+17
+00:01:27,800 --> 00:01:32,010
+And now let's move to the bitless script to delete the Sikander.
+
+18
+00:01:32,050 --> 00:01:34,420
+Or you can say delete the second ID.
+
+19
+00:01:34,590 --> 00:01:44,780
+So just copy some command Drood from employees and most of the vitamines script not just based here.
+
+20
+00:01:44,940 --> 00:01:47,350
+So no exit good.
+
+21
+00:01:47,480 --> 00:01:56,270
+So you can see did front employ we are equal to to allow see if this more to do.
+
+22
+00:01:56,300 --> 00:02:01,720
+And John so here we did not get any error.
+
+23
+00:02:01,830 --> 00:02:08,160
+So let's move to the my SchoolBook bent to see whether it is affected or not.
+
+24
+00:02:08,390 --> 00:02:10,660
+And after that he'd come on enter.
+
+25
+00:02:11,070 --> 00:02:15,640
+So you can see there's a NORDO which means that all the rows are deleted.
+
+26
+00:02:15,660 --> 00:02:18,710
+So the first is deleted from my Eskil work bench.
+
+27
+00:02:18,840 --> 00:02:22,450
+And the second row is deleted from the bitless script.
+
+28
+00:02:22,500 --> 00:02:28,620
+So this is the process to delete the values or we can say delete the rows from database.
+

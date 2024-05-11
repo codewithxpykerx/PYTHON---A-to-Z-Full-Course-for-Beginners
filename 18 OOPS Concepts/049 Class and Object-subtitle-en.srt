@@ -1,0 +1,504 @@
+1
+00:00:00,760 --> 00:00:02,850
+Welcome to computer by do to do.
+
+2
+00:00:03,100 --> 00:00:09,750
+Today we are going to learn how to declare the classes and how to use the classes and objects.
+
+3
+00:00:09,770 --> 00:00:16,820
+So here I just open up our script and now I'm going to show you this index of class and we can say how
+
+4
+00:00:16,830 --> 00:00:18,540
+do the classes.
+
+5
+00:00:18,590 --> 00:00:22,120
+So here I just try to see it as class.
+
+6
+00:00:22,130 --> 00:00:23,610
+So the class is a key word.
+
+7
+00:00:23,780 --> 00:00:29,590
+So when we declare a function we use d s so that B F is a key word.
+
+8
+00:00:29,600 --> 00:00:33,390
+So Same here we have a class which is the class key word.
+
+9
+00:00:33,650 --> 00:00:40,320
+And after the keyword I just typed the name of the class which is a student.
+
+10
+00:00:40,360 --> 00:00:42,750
+So this woman is a name of the class.
+
+11
+00:00:42,830 --> 00:00:47,350
+So generally the name of the class is the standard form the capital letter.
+
+12
+00:00:47,350 --> 00:00:55,270
+So here I just write as in the typewriter after you just put a column to get in the class.
+
+13
+00:00:55,270 --> 00:01:01,960
+So this is the way to declare our class as we already know that inside a class with eight attributes
+
+14
+00:01:02,230 --> 00:01:10,820
+and matters which means that we age some ingredients and the matters which are used to big the cake.
+
+15
+00:01:10,870 --> 00:01:14,310
+So in python we cannot declare a variable.
+
+16
+00:01:14,410 --> 00:01:22,690
+We have to write the variable inside a special method that is any method the init method used to initialize
+
+17
+00:01:22,690 --> 00:01:24,570
+a variable instantly.
+
+18
+00:01:24,620 --> 00:01:30,920
+So now I'm going to in place of it method we can call it constructor also.
+
+19
+00:01:30,940 --> 00:01:36,440
+So here I going to define a function which is in it with never a new school.
+
+20
+00:01:36,820 --> 00:01:38,940
+After that I'll put cells.
+
+21
+00:01:38,950 --> 00:01:43,040
+And after that I'll put color to get inserted in it matter.
+
+22
+00:01:44,190 --> 00:01:48,920
+So here are you self-taught Nim which is equal to Alex.
+
+23
+00:01:48,950 --> 00:01:54,160
+So here we just create a variable which is the name of the student.
+
+24
+00:01:54,170 --> 00:02:01,400
+So now I'm going to play an object which used to call this all the matters so now I'm going to create
+
+25
+00:02:01,400 --> 00:02:06,010
+an object which is associated with the plus Asturian.
+
+26
+00:02:06,020 --> 00:02:11,590
+So here I just write as one after that and put equal to and after that equal to.
+
+27
+00:02:11,600 --> 00:02:15,130
+I just tried the name of the class which is a student.
+
+28
+00:02:15,170 --> 00:02:20,540
+So here you can see the S1 is the object of this student class.
+
+29
+00:02:20,570 --> 00:02:25,400
+So whatever we did inside the class it just goes to the S1.
+
+30
+00:02:25,430 --> 00:02:32,120
+So now here we just create a object S1 and now I'm going to print the name of this student which is
+
+31
+00:02:32,270 --> 00:02:38,410
+elex by using plain function print ESPERANDO name.
+
+32
+00:02:38,520 --> 00:02:42,710
+So now I'm going to run this model.
+
+33
+00:02:42,910 --> 00:02:44,770
+So here we get the result.
+
+34
+00:02:44,930 --> 00:02:50,780
+Alex So now I'm going to explain you what do the self here.
+
+35
+00:02:50,780 --> 00:02:52,850
+So self is all by we.
+
+36
+00:02:52,870 --> 00:02:57,510
+Or we can say the word that represent the class excelled.
+
+37
+00:02:57,550 --> 00:03:03,640
+So here I'm going to explain you with the object control-C.
+
+38
+00:03:04,120 --> 00:03:10,710
+Come on we here you can see we have to object which is S1 and S2.
+
+39
+00:03:10,860 --> 00:03:13,220
+So now I'm going to run this one again.
+
+40
+00:03:16,080 --> 00:03:17,180
+So here we get a result.
+
+41
+00:03:17,220 --> 00:03:19,110
+Alex and Alex two times.
+
+42
+00:03:19,380 --> 00:03:26,430
+So when we initialized variable which is the name itself which means that it will work with the current
+
+43
+00:03:26,610 --> 00:03:27,530
+object.
+
+44
+00:03:27,540 --> 00:03:35,410
+So when this object is used then as one is a for that and when this object used then it will look for
+
+45
+00:03:35,410 --> 00:03:37,000
+the s2.
+
+46
+00:03:37,020 --> 00:03:44,370
+So now I'm going to change this something like that which just as soon insert the cells.
+
+47
+00:03:44,790 --> 00:03:48,060
+I'm going to pass as one here.
+
+48
+00:03:49,560 --> 00:03:52,110
+Haven't read this MUNDIAL.
+
+49
+00:03:52,380 --> 00:03:53,340
+We get the result.
+
+50
+00:03:53,360 --> 00:03:54,590
+Self is not defined.
+
+51
+00:03:54,600 --> 00:03:55,400
+Sorry.
+
+52
+00:03:55,480 --> 00:04:03,040
+Here to write as one.
+
+53
+00:04:03,080 --> 00:04:05,500
+So here we get a result which is elex.
+
+54
+00:04:05,520 --> 00:04:12,500
+So here when we get a single object to the object it passes inside the method when we use a single object
+
+55
+00:04:12,700 --> 00:04:18,650
+and then we use our different different object which means that we have more than one object for a single
+
+56
+00:04:18,950 --> 00:04:19,640
+class.
+
+57
+00:04:19,760 --> 00:04:25,370
+Then we have to use our self keyword good or past the current object.
+
+58
+00:04:25,370 --> 00:04:29,260
+So selfie used to present the current object.
+
+59
+00:04:29,600 --> 00:04:34,850
+So as we know that every class has some action which is equal to method.
+
+60
+00:04:34,850 --> 00:04:37,840
+So now I'm going to create a method here.
+
+61
+00:04:38,810 --> 00:04:51,050
+So I just simply copied this word and put DTMF and now I'm going to call them in name the method which
+
+62
+00:04:51,050 --> 00:04:51,990
+is work.
+
+63
+00:04:52,080 --> 00:04:58,290
+So every students have some action equal to work which means that every student can walk around etc.
+
+64
+00:04:58,790 --> 00:05:03,730
+and said Here I just write self Hillsong
+
+65
+00:05:12,920 --> 00:05:17,770
+So here we just need all mattered in the class.
+
+66
+00:05:17,990 --> 00:05:29,340
+And now I'm going to in something which is my name is Alex.
+
+67
+00:05:29,670 --> 00:05:31,140
+So now I'm going to
+
+68
+00:05:34,270 --> 00:05:43,630
+call the method by using the object as standard work.
+
+69
+00:05:43,700 --> 00:05:51,920
+So now I'm going to run this more do you get those equal to is not defined so the split
+
+70
+00:05:57,000 --> 00:05:59,140
+hey we get the result which is equal to.
+
+71
+00:05:59,200 --> 00:06:00,840
+My name is Alex.
+
+72
+00:06:00,870 --> 00:06:07,600
+So this is the way to create a method in the class and this is the way to call this method using the
+
+73
+00:06:07,690 --> 00:06:08,610
+object.
+
+74
+00:06:08,680 --> 00:06:11,950
+And now I'm going to write here.
+
+75
+00:06:12,130 --> 00:06:13,060
+My name is
+
+76
+00:06:15,710 --> 00:06:18,630
+self-loading name.
+
+77
+00:06:18,740 --> 00:06:25,790
+So this safter name is a class variable which means that we can use this self-dual name anywhere in
+
+78
+00:06:26,090 --> 00:06:26,950
+this class
+
+79
+00:06:30,290 --> 00:06:32,350
+into this model.
+
+80
+00:06:32,510 --> 00:06:34,620
+We get a result my name is Alex.
+
+81
+00:06:34,800 --> 00:06:36,870
+Alex is a self-taught name.
+
+82
+00:06:36,890 --> 00:06:48,580
+So now let's move some other things which is self name and class story classes classes.
+
+83
+00:06:48,750 --> 00:07:03,070
+I'm going to copy the second name of order and put through times reduce self-taught classes and Sellersburg
+
+84
+00:07:03,460 --> 00:07:06,850
+mean them here I just write
+
+85
+00:07:11,130 --> 00:07:14,940
+classes and Leam.
+
+86
+00:07:15,000 --> 00:07:21,790
+So when we got a name here I read the boss of class here it will refer to these certain classes and
+
+87
+00:07:21,790 --> 00:07:23,960
+the surfer name.
+
+88
+00:07:24,000 --> 00:07:35,390
+So now I'm going to write to name which is X razored and class which is from 12.
+
+89
+00:07:35,850 --> 00:07:38,460
+Somehow when we put this model
+
+90
+00:07:42,340 --> 00:07:43,840
+we don't get any error.
+
+91
+00:07:43,890 --> 00:07:51,210
+Now I'm going to kill this by using self-taught names.
+
+92
+00:07:51,310 --> 00:07:52,320
+Sorry.
+
+93
+00:07:52,780 --> 00:07:56,910
+We're putting these server names names.
+
+94
+00:07:57,220 --> 00:08:02,390
+Self-taught memes.
+
+95
+00:08:02,720 --> 00:08:07,890
+So we need this more do we get the word which is name is not defined.
+
+96
+00:08:09,250 --> 00:08:12,880
+So names are idioms here.
+
+97
+00:08:16,690 --> 00:08:20,660
+So here we get a result which is my name is X Y Z.
+
+98
+00:08:20,950 --> 00:08:25,010
+So x is in which is equal to the last names.
+
+99
+00:08:25,380 --> 00:08:28,810
+And here are just plain dumb classes.
+
+100
+00:08:28,830 --> 00:08:34,200
+Now we need this model we get the result.
+
+101
+00:08:34,210 --> 00:08:37,770
+My name is X wizard alecks and 12.
+
+102
+00:08:37,930 --> 00:08:46,140
+So here we can see when the boxes are available in the class then the constructor is incidentally was
+
+103
+00:08:46,300 --> 00:08:49,780
+to separate the name and the separate classes itself.
+
+104
+00:08:49,960 --> 00:08:57,340
+So this method begins that constructor is used to initialize dto then say double plus.
+
+105
+00:08:57,520 --> 00:09:02,600
+So this all the variables are used anywhere in this class.
+
+106
+00:09:02,650 --> 00:09:07,410
+It means that these are class variable not a stance variable.
+
+107
+00:09:07,420 --> 00:09:09,830
+So now let's change something here.
+
+108
+00:09:10,270 --> 00:09:14,990
+I'm going to create another object equal to as two
+
+109
+00:09:17,840 --> 00:09:28,760
+extra dog walk and here I'm to pass something which is white X Wizard and you start eating.
+
+110
+00:09:28,760 --> 00:09:32,740
+So here we have two different object inside the object.
+
+111
+00:09:32,750 --> 00:09:36,080
+We have four different venues just exquisite.
+
+112
+00:09:36,140 --> 00:09:38,620
+Well why is it in Italy.
+
+113
+00:09:38,750 --> 00:09:46,180
+So with this model this first object is passes through this initialiser which is named in classes by
+
+114
+00:09:46,240 --> 00:09:50,620
+exquisite control and the eclipsing W which is ex-president.
+
+115
+00:09:50,720 --> 00:09:54,840
+Well I mean we deal with the second object then white X's.
+
+116
+00:09:55,130 --> 00:09:57,140
+Responses to these names.
+
+117
+00:09:57,140 --> 00:10:06,020
+And this it possible these classes to ascend with used to initialize are being assigned the object itself.
+
+118
+00:10:06,270 --> 00:10:10,810
+And now we get those are just equal to.
+
+119
+00:10:11,540 --> 00:10:18,320
+So here we get the result x x and y x Zed.
+
+120
+00:10:18,470 --> 00:10:26,660
+So we get a result different from the previous one because the two objects are used in two manners because
+
+121
+00:10:26,660 --> 00:10:27,690
+of the scent.
+
+122
+00:10:27,830 --> 00:10:34,150
+So then we use upthrust object the selfie refer to that and then we use a second object then central
+
+123
+00:10:34,160 --> 00:10:38,720
+deafer to this second object which is equal to as two.
+
+124
+00:10:38,720 --> 00:10:40,900
+So this is the way to use a cell.
+
+125
+00:10:41,090 --> 00:10:45,010
+And this is a way to create a class object and the method.
+
+126
+00:10:45,200 --> 00:10:49,620
+So that's all about the class as an object in Python.
+

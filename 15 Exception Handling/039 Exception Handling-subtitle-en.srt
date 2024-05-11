@@ -1,0 +1,280 @@
+1
+00:00:00,150 --> 00:00:04,800
+In this studio I'm going to teach you how to handle the exception.
+
+2
+00:00:04,950 --> 00:00:13,890
+So why we need to handle the exception because the purpose of handling the acceptance is to make the
+
+3
+00:00:13,890 --> 00:00:22,110
+program robust robust means a strong robust program does not terminate in the middle.
+
+4
+00:00:22,110 --> 00:00:30,900
+So now let's move to the examples before going to like some example we need to know what the steps followed
+
+5
+00:00:31,380 --> 00:00:33,950
+to handle the exception.
+
+6
+00:00:34,380 --> 00:00:43,890
+So the first step is try block by block means then there may be a possibility of exception in the program
+
+7
+00:00:44,280 --> 00:00:49,520
+the programmer will put all the code in the try block.
+
+8
+00:00:49,560 --> 00:00:53,670
+The second step is except block the program.
+
+9
+00:00:53,880 --> 00:00:54,370
+Right.
+
+10
+00:00:54,420 --> 00:00:59,260
+Except block where he should misplay the exception to do.
+
+11
+00:00:59,420 --> 00:01:03,930
+Or a custom message that the.
+
+12
+00:01:04,320 --> 00:01:08,380
+Finally finally block is hidden in the master.
+
+13
+00:01:08,550 --> 00:01:16,700
+And finally block I use to execute the program vendor the exception or not.
+
+14
+00:01:16,710 --> 00:01:23,080
+So now let's move to that example to understand the exception handling here.
+
+15
+00:01:23,160 --> 00:01:30,970
+I just opened up items and now I'm going to create a simple program to show you how to handle the exception.
+
+16
+00:01:31,000 --> 00:01:37,390
+So now as I already said the quarter should we keep inside the block.
+
+17
+00:01:37,880 --> 00:01:40,610
+So I simply wanted to print something
+
+18
+00:01:47,940 --> 00:01:49,520
+and write something.
+
+19
+00:01:49,630 --> 00:01:54,760
+And after that they just said the second step is to accept
+
+20
+00:01:58,390 --> 00:02:00,000
+it will burn some messes.
+
+21
+00:02:00,290 --> 00:02:03,530
+If the code is incorrect inside the block
+
+22
+00:02:08,360 --> 00:02:13,200
+I need some Going to the
+
+23
+00:02:16,260 --> 00:02:18,460
+here and now.
+
+24
+00:02:18,980 --> 00:02:22,020
+And where is my due.
+
+25
+00:02:22,090 --> 00:02:24,750
+So here I'm going to simply write something with.
+
+26
+00:02:25,510 --> 00:02:28,600
+Hello world here.
+
+27
+00:02:28,780 --> 00:02:30,270
+We did not get any error.
+
+28
+00:02:30,580 --> 00:02:39,130
+And now I'm going to get something inside this used of move this character insert the input matter.
+
+29
+00:02:39,490 --> 00:02:42,230
+This input my part is incorrect.
+
+30
+00:02:42,500 --> 00:02:44,680
+And now I'm I this more do.
+
+31
+00:02:45,130 --> 00:02:50,960
+So here to get up except Messers please write something correctly.
+
+32
+00:02:51,070 --> 00:02:59,170
+We did not get any error message because the excerpt will simply show you the user defined message.
+
+33
+00:02:59,540 --> 00:03:09,510
+And when I simply print this money again we get the exact lizard which is.
+
+34
+00:03:09,770 --> 00:03:18,740
+So this is a block and this is the except block and now I'm going to create a simple example to understand
+
+35
+00:03:18,740 --> 00:03:21,190
+the exception handling more.
+
+36
+00:03:21,530 --> 00:03:30,630
+And now I'm using my loop after that and I put two and in the loop when I declare I blog.
+
+37
+00:03:30,680 --> 00:03:34,410
+And except look inside the table.
+
+38
+00:03:35,550 --> 00:03:37,400
+It will take some input.
+
+39
+00:03:37,400 --> 00:03:40,440
+We do which is in brute
+
+40
+00:03:49,430 --> 00:03:56,900
+then after that it will break the block.
+
+41
+00:03:57,000 --> 00:03:58,800
+If the input is correct
+
+42
+00:04:04,780 --> 00:04:14,320
+and that except block that I'd clue.
+
+43
+00:04:14,570 --> 00:04:19,750
+So now I'm going to do this in boot.
+
+44
+00:04:21,160 --> 00:04:24,740
+So here it's very well except for indecent.
+
+45
+00:04:24,870 --> 00:04:34,600
+Well you know I'm one of them this morning to say the program is executed correctly and I'm glad I did
+
+46
+00:04:34,600 --> 00:04:36,940
+something did.
+
+47
+00:04:37,300 --> 00:04:39,850
+So it would accept in Deezer.
+
+48
+00:04:40,220 --> 00:04:45,170
+And now let's do it again hello.
+
+49
+00:04:45,320 --> 00:04:49,890
+You can see please write correctly this except block will.
+
+50
+00:04:49,940 --> 00:04:53,240
+So a message please write correctly.
+
+51
+00:04:53,250 --> 00:04:55,490
+After that if again something is true.
+
+52
+00:04:55,970 --> 00:04:57,610
+We get the message.
+
+53
+00:04:57,680 --> 00:04:58,250
+Please.
+
+54
+00:04:58,440 --> 00:05:04,120
+Correctly so until it will get busier that it will persist.
+
+55
+00:05:04,340 --> 00:05:11,600
+So this is the absolute example to understand the block and accept Block.
+
+56
+00:05:11,640 --> 00:05:16,030
+And now we are going to use a finally block in this program
+
+57
+00:05:19,880 --> 00:05:24,730
+to simply being a massive do over.
+
+58
+00:05:24,940 --> 00:05:30,870
+Which means that this final blog will not depend on this excerpt and this type blog
+
+59
+00:05:34,820 --> 00:05:37,940
+whenever we type in December.
+
+60
+00:05:38,250 --> 00:05:42,440
+You can see the live blog is executed.
+
+61
+00:05:42,440 --> 00:05:52,390
+And now if you have some different venue which is Astrue so you can see this either accept the message.
+
+62
+00:05:52,550 --> 00:05:54,600
+And this is the final message.
+
+63
+00:05:54,710 --> 00:06:02,070
+So here we can see the final message will not depend on this excerpt and this blog.
+
+64
+00:06:02,240 --> 00:06:09,010
+If your dialogue is right or wrong this time statement of in print at the end.
+
+65
+00:06:09,290 --> 00:06:10,540
+So this is not optional.
+
+66
+00:06:10,620 --> 00:06:15,590
+Instead the exception so if you want to print something and the last.
+
+67
+00:06:15,590 --> 00:06:17,560
+Then we use the find the live blog.
+
+68
+00:06:17,670 --> 00:06:20,060
+Or if you want to exclude something in the last.
+
+69
+00:06:20,060 --> 00:06:23,190
+Then we have to use the final block.
+
+70
+00:06:23,270 --> 00:06:26,290
+So this is about our exception in Python.
+

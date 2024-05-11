@@ -1,0 +1,184 @@
+1
+00:00:00,640 --> 00:00:08,840
+High everyone in this we are going to do an ASEAN which will incorporate the for loop range function.
+
+2
+00:00:09,670 --> 00:00:12,850
+And also IIF statement.
+
+3
+00:00:13,020 --> 00:00:23,440
+So in this example we are illustrating the combinational and as statement with the full statement that
+
+4
+00:00:23,650 --> 00:00:28,750
+search for prime numbers from 10 to 20.
+
+5
+00:00:28,760 --> 00:00:31,680
+So let's do that to.
+
+6
+00:00:32,240 --> 00:00:39,610
+And in order to do that first of all we have to iterate with we didn't get 20 for that.
+
+7
+00:00:39,890 --> 00:00:44,420
+Let's create a for loop for now.
+
+8
+00:00:49,850 --> 00:00:50,650
+Then doing
+
+9
+00:00:55,600 --> 00:00:59,690
+to iterate on the factors of the number.
+
+10
+00:00:59,690 --> 00:01:01,480
+Let's create a model for
+
+11
+00:01:10,420 --> 00:01:12,320
+do you know
+
+12
+00:01:15,220 --> 00:01:18,580
+that to determine the first factor.
+
+13
+00:01:19,160 --> 00:01:19,730
+Let's do
+
+14
+00:01:24,320 --> 00:01:26,670
+none more efficient.
+
+15
+00:01:26,700 --> 00:01:29,540
+I let's say that
+
+16
+00:01:32,480 --> 00:01:40,080
+right as I think the results do in East thinnish e.
+
+17
+00:01:42,950 --> 00:01:59,530
+Division I equal to zero then in order to calculate the second factor let's do g equals num divided
+
+18
+00:01:59,620 --> 00:01:59,820
+by
+
+19
+00:02:03,400 --> 00:02:03,840
+and
+
+20
+00:02:07,260 --> 00:02:13,540
+let's put in all the three values in fashion like
+
+21
+00:02:16,920 --> 00:02:18,880
+then DGT
+
+22
+00:02:22,010 --> 00:02:22,730
+equals
+
+23
+00:02:27,150 --> 00:02:28,310
+G.
+
+24
+00:02:29,410 --> 00:02:31,850
+Indu post indeed the
+
+25
+00:02:36,910 --> 00:02:42,580
+add in person each then you recess.
+
+26
+00:02:42,660 --> 00:02:44,090
+No I'm not.
+
+27
+00:02:44,330 --> 00:02:46,110
+I will not.
+
+28
+00:02:46,540 --> 00:02:55,580
+G and this person is d e's get replaced by name which is an integer.
+
+29
+00:02:55,620 --> 00:03:05,710
+That's why this person is D and this HD is get replaced by this I Indu and it's d again which is replaced
+
+30
+00:03:05,710 --> 00:03:06,790
+by this G
+
+31
+00:03:09,600 --> 00:03:13,540
+and after that if statement
+
+32
+00:03:16,830 --> 00:03:27,230
+do more to the next nimble and then an end statement would just know be as of this.
+
+33
+00:03:27,470 --> 00:03:27,830
+Q
+
+34
+00:03:31,880 --> 00:03:33,620
+Yes just three
+
+35
+00:03:38,230 --> 00:03:43,580
+Colma he's right.
+
+36
+00:03:47,660 --> 00:03:48,990
+So that's it.
+
+37
+00:03:49,370 --> 00:03:54,120
+Let's see if we go to the terminal in order to see the is.
+
+38
+00:03:55,050 --> 00:03:59,710
+So in the Downloads directory.
+
+39
+00:04:00,030 --> 00:04:05,580
+Well the file are you resides and Thuan python
+
+40
+00:04:08,810 --> 00:04:14,470
+files you look at here print in this fashion
+
+41
+00:04:21,760 --> 00:04:33,760
+and this underdo term we know that this technique was to do indeed fly then.
+
+42
+00:04:33,840 --> 00:04:38,690
+Is it brain work 12 equals doing to six inches of rain.
+
+43
+00:04:38,820 --> 00:04:52,130
+And so on up to 90 Mike it doesn't take this 20 since this range will take only values from 10 to 20
+
+44
+00:04:52,130 --> 00:04:53,980
+mins what we just made.
+
+45
+00:04:54,260 --> 00:04:58,320
+So that's all about range function for
+
+46
+00:05:02,040 --> 00:05:03,200
+keep watching and.
+

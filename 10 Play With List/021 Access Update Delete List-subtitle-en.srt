@@ -1,0 +1,108 @@
+1
+00:00:00,360 --> 00:00:05,110
+So now I'm going to access the item from the list.
+
+2
+00:00:05,190 --> 00:00:09,220
+So here I collected the list assigning some item.
+
+3
+00:00:09,390 --> 00:00:12,530
+The first item is a mystery.
+
+4
+00:00:12,810 --> 00:00:14,930
+The second item is a fraud.
+
+5
+00:00:14,930 --> 00:00:17,430
+Well you hair.
+
+6
+00:00:17,490 --> 00:00:23,350
+I'm with the actors the I don't know having the expedition 0.
+
+7
+00:00:23,530 --> 00:00:33,260
+So for that you have to give the index when you show the head of the disorder and get the result by
+
+8
+00:00:33,260 --> 00:00:35,230
+10 which is a string.
+
+9
+00:00:35,230 --> 00:00:40,240
+So these are all about the accessing the value from the list.
+
+10
+00:00:40,240 --> 00:00:48,720
+So another second think is that how to update the list updating the list means that we have to change
+
+11
+00:00:48,790 --> 00:00:51,750
+the item we have of did this item.
+
+12
+00:00:51,910 --> 00:00:55,840
+So initially we didn't want to come in said the list.
+
+13
+00:00:55,840 --> 00:00:58,580
+And the second item is flawed will you.
+
+14
+00:00:58,750 --> 00:01:08,600
+So now I'm going to change this floor will look with some industry so for that I'm going to using our
+
+15
+00:01:08,710 --> 00:01:21,710
+next a new one and assigning a string to her hello and now I'm going to print this whole Jane.
+
+16
+00:01:21,730 --> 00:01:26,310
+So here we get the result we have to item the first item in this tree.
+
+17
+00:01:26,350 --> 00:01:28,950
+And the second item is the updated string.
+
+18
+00:01:29,110 --> 00:01:32,420
+So initially we have floatable Lou.
+
+19
+00:01:32,620 --> 00:01:41,190
+And after that we have a string with which is hello could is all about updating the list.
+
+20
+00:01:41,380 --> 00:01:49,990
+So the next thing is how to delete the list deleting the list and how to move the list.
+
+21
+00:01:49,990 --> 00:01:55,380
+So for that we have to use a method D.
+
+22
+00:01:55,890 --> 00:02:01,940
+And now I'm again using the expedition's of one.
+
+23
+00:02:02,190 --> 00:02:13,360
+So I'm going to lead this item into question 1 and after that I'm going to print the list so here we
+
+24
+00:02:13,360 --> 00:02:14,470
+get the result.
+
+25
+00:02:14,740 --> 00:02:16,960
+So how do we get there isn't only one item.
+
+26
+00:02:17,200 --> 00:02:23,140
+Because the second item is deleted using the b l method.
+
+27
+00:02:23,370 --> 00:02:28,530
+So this is all about the accessing deleting and updating the list.
+

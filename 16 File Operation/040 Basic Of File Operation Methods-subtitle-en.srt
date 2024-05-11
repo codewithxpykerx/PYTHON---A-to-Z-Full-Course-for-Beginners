@@ -1,0 +1,332 @@
+1
+00:00:00,340 --> 00:00:03,590
+Hi everyone let's get started in this.
+
+2
+00:00:03,720 --> 00:00:06,470
+You learn about by then try operations.
+
+3
+00:00:06,660 --> 00:00:13,520
+More specifically opening a file reading from and writing into it closing it and various Father-Mother.
+
+4
+00:00:13,710 --> 00:00:15,220
+You should be aware of.
+
+5
+00:00:15,610 --> 00:00:18,390
+So first of all what is a file.
+
+6
+00:00:18,960 --> 00:00:28,320
+If it is a name location on this still related information it is used to permanently stored data in
+
+7
+00:00:28,320 --> 00:00:31,890
+a nonvolatile memory like hard disk.
+
+8
+00:00:31,890 --> 00:00:38,300
+Since the random access memory is well let's say which loses its data when compared to the stone tool.
+
+9
+00:00:38,550 --> 00:00:42,970
+We use flyer's for future use of the data.
+
+10
+00:00:43,740 --> 00:00:51,500
+So when we want to read from or write to a file we need to open it first when we are done.
+
+11
+00:00:51,600 --> 00:00:57,260
+It needs to be closed so that the resources that are tied to the file are treat.
+
+12
+00:00:57,500 --> 00:01:02,620
+Hence in Python the file operations takes place in the following order.
+
+13
+00:01:02,880 --> 00:01:10,580
+First one opening fire second one both forming operations like reading or writing up ending exit.
+
+14
+00:01:10,600 --> 00:01:13,510
+The third one closing your file.
+
+15
+00:01:13,960 --> 00:01:22,220
+So let's do have a look at the first one opening your file by that has a built in function called open
+
+16
+00:01:22,370 --> 00:01:24,260
+to open a file.
+
+17
+00:01:24,350 --> 00:01:32,330
+This function will return a File object also called a handle as it is used to read all modify the file
+
+18
+00:01:32,400 --> 00:01:33,430
+accordingly.
+
+19
+00:01:33,710 --> 00:01:36,940
+In this first case we just bought the name of the file.
+
+20
+00:01:36,940 --> 00:01:44,140
+This will be XTi as a string to the function open and to do so we should be in the same directory.
+
+21
+00:01:44,150 --> 00:01:47,560
+Would the desktop be the results.
+
+22
+00:01:47,600 --> 00:01:55,160
+And in the second case we specified before Bob do read me don't be XTi in this case we needn't be in
+
+23
+00:01:55,160 --> 00:02:01,970
+the same directory I read Middleby XTi it is x then we can specify the.
+
+24
+00:02:02,030 --> 00:02:09,430
+While opening the file also in more we specify whether we want to read or write or up into 5.
+
+25
+00:02:09,440 --> 00:02:14,730
+We also specify if we want to open the file in the text mode or in binary mode.
+
+26
+00:02:14,990 --> 00:02:17,820
+So let's have a look at the Motz.
+
+27
+00:02:17,900 --> 00:02:21,700
+These are the mods that are supported by Python.
+
+28
+00:02:22,550 --> 00:02:31,730
+It is for reading and reading in text mode is the default mode here.
+
+29
+00:02:32,270 --> 00:02:41,170
+And this more we get strings when reading from the file on the other hand in the binary mode.
+
+30
+00:02:42,020 --> 00:02:44,360
+The more return bytes.
+
+31
+00:02:44,390 --> 00:02:50,450
+And this is the more to be used when dealing with non-fixed files like images.
+
+32
+00:02:50,930 --> 00:02:59,870
+So W stands for writing and this will create a new file if the mentioned file does not exist or it will
+
+33
+00:02:59,870 --> 00:03:00,970
+drag in the file.
+
+34
+00:03:01,100 --> 00:03:05,690
+If the name exist then extenso exclusive creation.
+
+35
+00:03:05,720 --> 00:03:18,200
+If the file already exist the operation fees and A-stan for opening file for upbuilding at the end of
+
+36
+00:03:18,200 --> 00:03:19,720
+the file with a drunk getting it.
+
+37
+00:03:19,760 --> 00:03:21,660
+And this also will create a new file.
+
+38
+00:03:21,830 --> 00:03:31,130
+If the name does not exist and B is the default text mode and be sensible the binary more than we are
+
+39
+00:03:31,130 --> 00:03:32,030
+dealing with.
+
+40
+00:03:32,350 --> 00:03:39,500
+You may just or really all we have used these binary more and this blessed line is used for combining
+
+41
+00:03:40,580 --> 00:03:41,470
+more than one.
+
+42
+00:03:41,520 --> 00:03:46,210
+More like reading and writing or writing in binary like that.
+
+43
+00:03:46,610 --> 00:03:49,210
+Then I like all other languages.
+
+44
+00:03:49,220 --> 00:03:59,440
+The character here does not imply the number 97 undelete is encoded using ASCII or other valid encodings.
+
+45
+00:03:59,480 --> 00:04:04,160
+Moreover the default encoding is platform dependent.
+
+46
+00:04:04,160 --> 00:04:12,680
+In Windows it is C.P 4:59 do but in Linux it is you ate like this.
+
+47
+00:04:13,020 --> 00:04:18,900
+So you must not also relay on the default encoding.
+
+48
+00:04:18,950 --> 00:04:22,810
+Or else our guard will behave differently in different platforms.
+
+49
+00:04:23,030 --> 00:04:27,050
+Hence when walking Why isn't there more.
+
+50
+00:04:27,050 --> 00:04:28,710
+It is highly recommended.
+
+51
+00:04:28,800 --> 00:04:32,900
+You specify the encoding type like this.
+
+52
+00:04:32,900 --> 00:04:36,240
+Since we are using Linux we are using the encoding babe.
+
+53
+00:04:36,290 --> 00:04:39,330
+You'll be a great hand here.
+
+54
+00:04:39,350 --> 00:04:44,840
+We just opened the file in read mode within gaurdian.
+
+55
+00:04:44,950 --> 00:04:49,990
+It would be a feat so just to have a look at other examples.
+
+56
+00:04:50,060 --> 00:04:56,330
+Also in the first case we just open the door still be XTi in the default mode.
+
+57
+00:04:56,350 --> 00:05:05,930
+With this ruling in ex-MIL and the second case we supplied the value so that we can write indexable.
+
+58
+00:05:06,140 --> 00:05:12,310
+And third guess we are opening an MH goal MH to B and B in really last minute.
+
+59
+00:05:13,310 --> 00:05:21,270
+So when we are done with the operations to the file we need to properly close closing the file.
+
+60
+00:05:21,340 --> 00:05:25,370
+Three of the resources that were tied with the file.
+
+61
+00:05:25,570 --> 00:05:35,470
+I had this done using the close of the like here even though it has a garbage collector to clean up
+
+62
+00:05:35,470 --> 00:05:37,240
+the referenced objects.
+
+63
+00:05:37,390 --> 00:05:41,550
+But we must not relay on it to close the file.
+
+64
+00:05:42,250 --> 00:05:48,760
+So here we just open the doors will be XTi in the default mode with encoding you defeat and we will
+
+65
+00:05:48,760 --> 00:05:56,440
+both form some file operations here and after that we have to close it by calling if not close then
+
+66
+00:05:57,250 --> 00:06:01,710
+this mother is not entirely safe if an exception of course.
+
+67
+00:06:01,990 --> 00:06:10,830
+When we are both forming some file operations with the file then the exists without closing the file.
+
+68
+00:06:11,080 --> 00:06:17,300
+So a safer way is to use the try finally block in try.
+
+69
+00:06:17,350 --> 00:06:26,350
+We are trying to open this to be XTi within coding be feet and we will perform some operations here.
+
+70
+00:06:26,570 --> 00:06:31,140
+And finally we are closing it by calling after close.
+
+71
+00:06:31,390 --> 00:06:34,160
+So this murder.
+
+72
+00:06:34,420 --> 00:06:42,460
+We are glad indeed that the file is properly closed the event and exception of course here causing the
+
+73
+00:06:42,460 --> 00:06:45,130
+program to load to stop.
+
+74
+00:06:45,130 --> 00:06:52,140
+The best way to do this is using big statement like here.
+
+75
+00:06:53,020 --> 00:07:01,440
+This ensures that the file is closed when the block inside this statement is exited.
+
+76
+00:07:01,510 --> 00:07:06,930
+We don't need to explicitly call the close mother since it is done internally.
+
+77
+00:07:07,060 --> 00:07:10,420
+So I strongly recommend you use with open
+
+78
+00:07:13,020 --> 00:07:19,280
+like he'll to do the operations with sites.
+
+79
+00:07:19,700 --> 00:07:21,260
+So that's all for now.
+
+80
+00:07:21,620 --> 00:07:24,240
+All the operations are related to fire.
+
+81
+00:07:24,440 --> 00:07:31,030
+Like reading from file spending to read writing do it will be handled in the upcoming reviews.
+
+82
+00:07:31,100 --> 00:07:32,310
+So keep watching.
+
+83
+00:07:32,600 --> 00:07:32,990
+Thank you.
+

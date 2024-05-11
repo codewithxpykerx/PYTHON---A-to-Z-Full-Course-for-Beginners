@@ -1,0 +1,28 @@
+1
+00:00:00,990 --> 00:00:06,310
+Guys to me we'll try to learn about operators in Python.
+
+2
+00:00:06,630 --> 00:00:08,230
+So what are the operators.
+
+3
+00:00:08,390 --> 00:00:13,370
+Operators are nothing but symbols which will form some processing of data.
+
+4
+00:00:13,380 --> 00:00:16,200
+I mean people from some data processing.
+
+5
+00:00:16,710 --> 00:00:20,600
+So there are many types of fbregas in Python.
+
+6
+00:00:20,970 --> 00:00:28,500
+Like I have shown here and there are domestic operators combatted integrators assignment operators bitwise
+
+7
+00:00:28,500 --> 00:00:33,750
+operators logical operators membership operators and identify operators.
+

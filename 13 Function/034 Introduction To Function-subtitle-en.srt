@@ -1,0 +1,80 @@
+1
+00:00:00,580 --> 00:00:08,670
+Welcome to the Python tutorial today we're going to talk about a function in Python a function is a
+
+2
+00:00:08,970 --> 00:00:13,360
+block of code that is used to perform one task.
+
+3
+00:00:13,590 --> 00:00:20,850
+We can repeat the function many times and spit out requirement which means that we define a function
+
+4
+00:00:21,150 --> 00:00:26,620
+once and a user can use over and over again.
+
+5
+00:00:26,640 --> 00:00:30,980
+So is call a function in Python.
+
+6
+00:00:30,990 --> 00:00:37,810
+Now I'm going to explain to you how to use the function function in Python.
+
+7
+00:00:38,030 --> 00:00:42,320
+You do fine using the word B.
+
+8
+00:00:43,470 --> 00:00:50,820
+And after that keyword we write the name of the function with fantasies.
+
+9
+00:00:51,180 --> 00:00:59,750
+I tried the name of the function with it is after and Carlon to get inside the function.
+
+10
+00:00:59,800 --> 00:01:11,650
+And now I'm going to simply print a string which is hello and in the next line put it down.
+
+11
+00:01:11,770 --> 00:01:16,920
+I used to get out of the function when I hit enter.
+
+12
+00:01:16,920 --> 00:01:20,910
+You can see if it goes out of the function.
+
+13
+00:01:20,910 --> 00:01:24,060
+So here the new line is started.
+
+14
+00:01:24,410 --> 00:01:29,260
+So now I'm going to call the function to call the function.
+
+15
+00:01:29,420 --> 00:01:39,570
+We simply write the name of the function to know the name of the function followed by better places
+
+16
+00:01:40,220 --> 00:01:43,790
+and in parenthesis we can place any argument.
+
+17
+00:01:44,000 --> 00:01:52,380
+So here I don't put any argument and will simply call the function in then me.
+
+18
+00:01:52,670 --> 00:01:59,330
+The result is string which means that when we call that function this name the function is called.
+
+19
+00:01:59,610 --> 00:02:03,350
+And this is printed in output.
+
+20
+00:02:03,690 --> 00:02:07,410
+So these are all about the only way defining the function.
+

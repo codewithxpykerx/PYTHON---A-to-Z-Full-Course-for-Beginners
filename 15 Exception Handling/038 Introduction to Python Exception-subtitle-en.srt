@@ -1,0 +1,168 @@
+1
+00:00:00,660 --> 00:00:02,810
+Welcome to the By tend to do it here.
+
+2
+00:00:03,090 --> 00:00:07,480
+Today we are going to talk about acception in Python.
+
+3
+00:00:07,570 --> 00:00:13,460
+An exception is event which occur during the execution of the program.
+
+4
+00:00:13,680 --> 00:00:19,750
+Or we can say an exception is the adder which can be handled by the program.
+
+5
+00:00:20,130 --> 00:00:27,630
+The exception which are already available in the Python are called the built in exception.
+
+6
+00:00:27,630 --> 00:00:35,130
+One more thing don't confuse between the error and the exception because edit and exceptions are not
+
+7
+00:00:35,130 --> 00:00:36,570
+the same.
+
+8
+00:00:36,570 --> 00:00:44,730
+Suppose if the program again gets an error in the program and he can do something to emulate the error
+
+9
+00:00:45,210 --> 00:00:47,520
+then it is called an exception.
+
+10
+00:00:47,760 --> 00:00:56,040
+If the programmer cannot do anything in case of error then it is called an error not an exception.
+
+11
+00:00:56,040 --> 00:01:02,570
+A programmer can create his own exception code use a pain exception.
+
+12
+00:01:02,790 --> 00:01:07,070
+Now let's move to the example where we can see how exception.
+
+13
+00:01:07,110 --> 00:01:07,820
+Ago.
+
+14
+00:01:08,220 --> 00:01:16,050
+So first let's understand about the syntax error and how it is different from exception because sometime
+
+15
+00:01:16,310 --> 00:01:20,710
+be confused between syntax error and the exception errors.
+
+16
+00:01:21,030 --> 00:01:24,550
+So let's move to the examples here.
+
+17
+00:01:24,710 --> 00:01:32,400
+I open a Python script and after that and agreed to fi's one for syntax error and the second for exception.
+
+18
+00:01:32,640 --> 00:01:38,520
+So first I'm going to get a program where we can see what is a syntax error.
+
+19
+00:01:38,710 --> 00:01:43,290
+So first I simply dig in both
+
+20
+00:01:49,280 --> 00:01:51,370
+some values.
+
+21
+00:01:51,710 --> 00:01:58,450
+So here we can see this is the input which is stored in the variable x.
+
+22
+00:01:58,640 --> 00:02:09,990
+So after that I'll simply break the values of x here we we've done this Mordieu and you can see we get
+
+23
+00:02:09,990 --> 00:02:12,800
+a result to give some values.
+
+24
+00:02:12,960 --> 00:02:16,480
+But then they get the result.
+
+25
+00:02:16,650 --> 00:02:19,360
+So what is a syntax error in this program.
+
+26
+00:02:19,470 --> 00:02:22,270
+When I can but do I.
+
+27
+00:02:22,290 --> 00:02:25,120
+And B you all d.
+
+28
+00:02:25,290 --> 00:02:32,480
+Then here we can see we get a syntax error in this program.
+
+29
+00:02:32,600 --> 00:02:34,650
+So this is a syntax error.
+
+30
+00:02:34,830 --> 00:02:38,670
+And now I'm going to tell you what is the exception.
+
+31
+00:02:38,870 --> 00:02:42,620
+So first I'm going to again dig in Buddh
+
+32
+00:02:47,840 --> 00:02:57,140
+And doesn't this and this input is indeed a type.
+
+33
+00:02:57,270 --> 00:03:07,060
+And after that I'll simply print off X so this in user input is stored in this ex-buddy and this expeditor
+
+34
+00:03:07,060 --> 00:03:18,510
+will printed out not this do you can see the program is correctly done after that and simply put in
+
+35
+00:03:18,730 --> 00:03:19,500
+3.
+
+36
+00:03:19,520 --> 00:03:21,100
+Then we get one day.
+
+37
+00:03:21,200 --> 00:03:22,570
+It is old now.
+
+38
+00:03:22,940 --> 00:03:32,010
+I wonder this program again is going to simply type hello which is a string.
+
+39
+00:03:32,070 --> 00:03:39,050
+We get a value error so these errors are exception error which means that these errors can be handled
+
+40
+00:03:39,320 --> 00:03:40,650
+by a programmer.
+
+41
+00:03:40,760 --> 00:03:49,320
+So this is the difference between syntax error and exception error syntax error can't handle by a programmer
+
+42
+00:03:49,610 --> 00:03:53,250
+but the exception can be handled by the programmer.
+

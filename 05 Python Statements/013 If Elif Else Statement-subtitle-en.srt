@@ -1,0 +1,276 @@
+1
+00:00:00,460 --> 00:00:01,440
+Hire one.
+
+2
+00:00:01,650 --> 00:00:04,130
+Now let's have a look at why then.
+
+3
+00:00:04,580 --> 00:00:05,140
+Ellis.
+
+4
+00:00:05,340 --> 00:00:11,960
+And as statements here I have created a new client statements.
+
+5
+00:00:12,040 --> 00:00:14,090
+We work in the same location
+
+6
+00:00:21,750 --> 00:00:31,750
+in this you will learn to read decisions in the program using Eve and live and as statements.
+
+7
+00:00:31,830 --> 00:00:38,800
+Decision making is required when we want to execute a call or leave a certain condition is satisfied.
+
+8
+00:00:39,500 --> 00:00:45,060
+Though if elif and statements are used by them for decision making
+
+9
+00:00:48,790 --> 00:01:03,660
+those is the syntax for if else and as conditions here the program evaluates the best expression and
+
+10
+00:01:03,660 --> 00:01:11,360
+then execute statements only if the best expression is true.
+
+11
+00:01:11,580 --> 00:01:16,350
+Otherwise it would check for the best expression of a list.
+
+12
+00:01:16,900 --> 00:01:29,230
+And this means the short form all ends if and if are the best expression is true or at least is get
+
+13
+00:01:29,400 --> 00:01:41,020
+executed and if not the control will go to the else statement and the else statement is the last one.
+
+14
+00:01:41,280 --> 00:01:53,070
+And if the condition is met then the body was and will be get executed and we have the flowchart of
+
+15
+00:01:54,180 --> 00:02:01,930
+the if elif and else statements over here as we see in the index itself.
+
+16
+00:02:02,250 --> 00:02:05,560
+The best description of if we could executed.
+
+17
+00:02:05,640 --> 00:02:15,110
+If so we also are testing whether the disposition is true.
+
+18
+00:02:15,390 --> 00:02:26,460
+If will be good exit conduct and if it is not true then the best description of Eliphaz evaluate and
+
+19
+00:02:27,210 --> 00:02:29,690
+check for whether it is true or false.
+
+20
+00:02:29,910 --> 00:02:39,070
+And if it is true value of Eliphaz get executed and if not the value of as is get executed and it will
+
+21
+00:02:39,120 --> 00:02:45,150
+be more clear then we do a program.
+
+22
+00:02:45,480 --> 00:02:55,770
+So let's go to the Sublime Text and let nothing equals three
+
+23
+00:02:58,500 --> 00:03:01,690
+and the first statement it is the east statement.
+
+24
+00:03:01,920 --> 00:03:07,660
+If they did then do.
+
+25
+00:03:08,100 --> 00:03:21,700
+This is the best expression andere this if conditions loyalty is identified by the indentation here
+
+26
+00:03:21,820 --> 00:03:26,110
+the in addition stops and we have a print expression here.
+
+27
+00:03:26,560 --> 00:03:35,250
+But it is positive.
+
+28
+00:03:35,810 --> 00:03:46,250
+And the if Baldie is terminated dirt while it sees a Norling the deadlock.
+
+29
+00:03:46,820 --> 00:03:52,410
+So here we have the as if that is our airlift condition over here.
+
+30
+00:03:52,930 --> 00:04:01,900
+Elif now equal to equal to zero gender linked
+
+31
+00:04:05,160 --> 00:04:07,240
+no means zero.
+
+32
+00:04:09,250 --> 00:04:19,430
+Here you might have far northeast YV using double equal to or we'll hear you single equal notation will
+
+33
+00:04:19,540 --> 00:04:29,990
+assign a value to a variable but the debit equal sign is used to compare the value.
+
+34
+00:04:30,490 --> 00:04:34,440
+So the last one ends here.
+
+35
+00:04:34,560 --> 00:04:35,440
+We can have
+
+36
+00:04:40,280 --> 00:04:42,530
+no expression is
+
+37
+00:04:47,810 --> 00:04:49,600
+not means negative
+
+38
+00:04:53,440 --> 00:04:56,380
+so that's it.
+
+39
+00:04:56,530 --> 00:05:02,650
+So just go to the terminal and clear the screen.
+
+40
+00:05:03,730 --> 00:05:05,200
+Then go to the all
+
+41
+00:05:08,310 --> 00:05:12,250
+Biden statements don't be very tender now.
+
+42
+00:05:12,360 --> 00:05:25,930
+Supposedly since we are given the three positive integer it is bring the vast numbers positive and if
+
+43
+00:05:25,930 --> 00:05:34,120
+we change this to minus 3 then save it and go to the terminal again.
+
+44
+00:05:34,120 --> 00:05:35,400
+Then run the code again.
+
+45
+00:05:35,540 --> 00:05:42,110
+There now is negative and the flow of program is like this.
+
+46
+00:05:42,140 --> 00:05:53,550
+The minus 3 is get assigned to the number number and the if condition checks whether the number is greater
+
+47
+00:05:53,550 --> 00:05:59,180
+than zero or not and nor do you want greater than zero.
+
+48
+00:05:59,730 --> 00:06:09,450
+So it will not print not supposedly And if condition is not also get satisfied so the else condition
+
+49
+00:06:09,450 --> 00:06:14,720
+is satisfied and thus it brings now is negative.
+
+50
+00:06:15,720 --> 00:06:26,160
+That's how the IIF Elif and else statements walk in Python and we can have the
+
+51
+00:06:28,890 --> 00:06:32,100
+same code like this here.
+
+52
+00:06:33,180 --> 00:06:37,950
+If Nauman greater than or equal to zero if not equal we call the zoo.
+
+53
+00:06:38,430 --> 00:06:41,350
+This yf is inside this.
+
+54
+00:06:41,370 --> 00:06:50,480
+If so it is nested IF ELSE condition and none is greater than Oracle.
+
+55
+00:06:50,940 --> 00:06:54,400
+So let's do this 2 3 again and see if it.
+
+56
+00:06:55,140 --> 00:06:58,590
+So now the condition is East condition is true.
+
+57
+00:06:58,790 --> 00:07:03,310
+It is greater than zero and now it will check for it.
+
+58
+00:07:03,390 --> 00:07:12,380
+No equally will do then it will print 0 and if else then it will print.
+
+59
+00:07:12,390 --> 00:07:13,800
+It is a positive number.
+
+60
+00:07:14,220 --> 00:07:16,950
+Since we are using all by then.
+
+61
+00:07:16,960 --> 00:07:18,040
+2.7.
+
+62
+00:07:18,300 --> 00:07:20,960
+We don't need this brackets.
+
+63
+00:07:21,010 --> 00:07:29,110
+That's one of the difference between by the dewpoint 7 and by the do 3.
+
+64
+00:07:29,100 --> 00:07:32,210
+So let's run this call again.
+
+65
+00:07:32,730 --> 00:07:39,060
+Then go to the terminal and again then it is positive number.
+
+66
+00:07:39,540 --> 00:07:45,020
+That's the IIF Elif and Else statement.
+
+67
+00:07:45,300 --> 00:07:48,340
+By that that's all for now.
+
+68
+00:07:48,810 --> 00:07:50,520
+Keep watching.
+
+69
+00:07:50,520 --> 00:07:50,910
+Thank you.
+
